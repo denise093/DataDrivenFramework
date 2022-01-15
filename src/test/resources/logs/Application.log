@@ -1,0 +1,1033 @@
+INFO    2021-12-31 15:23:07,131 [main] base.TestBase  - Config file loaded!
+INFO    2021-12-31 15:23:07,132 [main] base.TestBase  - Config file loaded!
+INFO    2021-12-31 15:23:08,942 [main] base.TestBase  - Chrome launched
+INFO    2021-12-31 15:23:10,142 [main] base.TestBase  - Navigated to https://www.way2automation.com/angularjs-protractor/banking/#/login
+INFO    2021-12-31 15:23:10,311 [main] base.TestBase  - Inside Login test
+INFO    2021-12-31 15:23:13,692 [main] base.TestBase  - Login successfully executed
+INFO    2021-12-31 15:23:14,901 [main] base.TestBase  - Execution completed
+INFO    2021-12-31 15:54:42,896 [main] base.TestBase  - Config file loaded!
+INFO    2021-12-31 15:54:42,897 [main] base.TestBase  - Config file loaded!
+INFO    2021-12-31 15:54:44,985 [main] base.TestBase  - Chrome launched
+INFO    2021-12-31 15:54:45,989 [main] base.TestBase  - Navigated to https://www.way2automation.com/angularjs-protractor/banking/#/login
+INFO    2021-12-31 15:54:46,408 [main] base.TestBase  - Inside Login test
+INFO    2021-12-31 15:54:49,483 [main] base.TestBase  - Login successfully executed
+INFO    2021-12-31 15:54:51,013 [main] base.TestBase  - Execution completed
+INFO    2021-12-31 15:55:12,613 [main] base.TestBase  - Config file loaded!
+INFO    2021-12-31 15:55:12,615 [main] base.TestBase  - Config file loaded!
+INFO    2021-12-31 15:55:14,426 [main] base.TestBase  - Chrome launched
+INFO    2021-12-31 15:55:15,393 [main] base.TestBase  - Navigated to https://www.way2automation.com/angularjs-protractor/banking/#/login
+INFO    2021-12-31 15:55:15,755 [main] base.TestBase  - Inside Login test
+INFO    2021-12-31 15:55:18,904 [main] base.TestBase  - Login successfully executed
+INFO    2021-12-31 15:55:20,213 [main] base.TestBase  - Execution completed
+INFO    2021-12-31 15:56:17,338 [main] base.TestBase  - Config file loaded!
+INFO    2021-12-31 15:56:17,340 [main] base.TestBase  - Config file loaded!
+INFO    2021-12-31 15:56:19,084 [main] base.TestBase  - Chrome launched
+INFO    2021-12-31 15:56:20,144 [main] base.TestBase  - Navigated to https://www.way2automation.com/angularjs-protractor/banking/#/login
+INFO    2021-12-31 15:56:27,975 [main] base.TestBase  - Execution completed
+INFO    2021-12-31 15:56:37,276 [main] base.TestBase  - Config file loaded!
+INFO    2021-12-31 15:56:37,277 [main] base.TestBase  - Config file loaded!
+INFO    2021-12-31 15:56:39,032 [main] base.TestBase  - Chrome launched
+INFO    2021-12-31 15:56:39,951 [main] base.TestBase  - Navigated to https://www.way2automation.com/angularjs-protractor/banking/#/login
+INFO    2021-12-31 15:56:40,357 [main] base.TestBase  - Inside Login test
+INFO    2021-12-31 15:56:43,427 [main] base.TestBase  - Login successfully executed
+INFO    2021-12-31 15:56:54,812 [main] base.TestBase  - Execution completed
+INFO    2021-12-31 16:03:52,547 [main] base.TestBase  - Config file loaded!
+INFO    2021-12-31 16:03:52,548 [main] base.TestBase  - Config file loaded!
+INFO    2021-12-31 16:03:54,424 [main] base.TestBase  - Chrome launched
+INFO    2021-12-31 16:03:55,316 [main] base.TestBase  - Navigated to https://www.way2automation.com/angularjs-protractor/banking/#/login
+INFO    2021-12-31 16:03:55,686 [main] base.TestBase  - Inside Login test
+INFO    2021-12-31 16:03:58,906 [main] base.TestBase  - Login successfully executed
+INFO    2021-12-31 16:04:10,325 [main] base.TestBase  - Execution completed
+INFO    2021-12-31 16:07:18,808 [main] base.TestBase  - Config file loaded!
+INFO    2021-12-31 16:07:18,809 [main] base.TestBase  - Config file loaded!
+INFO    2021-12-31 16:07:20,667 [main] base.TestBase  - Chrome launched
+INFO    2021-12-31 16:07:21,598 [main] base.TestBase  - Navigated to https://www.way2automation.com/angularjs-protractor/banking/#/login
+INFO    2021-12-31 16:07:21,989 [main] base.TestBase  - Inside Login test
+INFO    2021-12-31 16:07:25,138 [main] base.TestBase  - Login successfully executed
+INFO    2021-12-31 16:07:36,491 [main] base.TestBase  - Execution completed
+INFO    2021-12-31 16:08:44,281 [main] base.TestBase  - Config file loaded!
+INFO    2021-12-31 16:08:44,282 [main] base.TestBase  - Config file loaded!
+INFO    2021-12-31 16:08:46,057 [main] base.TestBase  - Chrome launched
+INFO    2021-12-31 16:08:46,968 [main] base.TestBase  - Navigated to https://www.way2automation.com/angularjs-protractor/banking/#/login
+INFO    2021-12-31 16:08:47,309 [main] base.TestBase  - Inside Login test
+INFO    2021-12-31 16:08:50,404 [main] base.TestBase  - Login successfully executed
+INFO    2021-12-31 16:08:54,002 [main] base.TestBase  - Execution completed
+INFO    2021-12-31 16:11:31,229 [main] base.TestBase  - Config file loaded!
+INFO    2021-12-31 16:11:31,230 [main] base.TestBase  - Config file loaded!
+INFO    2021-12-31 16:11:33,137 [main] base.TestBase  - Chrome launched
+INFO    2021-12-31 16:11:34,129 [main] base.TestBase  - Navigated to https://www.way2automation.com/angularjs-protractor/banking/#/login
+INFO    2021-12-31 16:11:34,307 [main] base.TestBase  - Inside Login test
+INFO    2021-12-31 16:11:37,615 [main] base.TestBase  - Login successfully executed
+INFO    2021-12-31 16:11:41,568 [main] base.TestBase  - Execution completed
+INFO    2021-12-31 16:16:01,164 [main] base.TestBase  - Config file loaded!
+INFO    2021-12-31 16:16:01,166 [main] base.TestBase  - Config file loaded!
+INFO    2021-12-31 16:16:02,900 [main] base.TestBase  - Chrome launched
+INFO    2021-12-31 16:16:03,886 [main] base.TestBase  - Navigated to https://www.way2automation.com/angularjs-protractor/banking/#/login
+INFO    2021-12-31 16:16:04,063 [main] base.TestBase  - Inside Login test
+INFO    2021-12-31 16:16:07,272 [main] base.TestBase  - Login successfully executed
+INFO    2021-12-31 16:16:08,649 [main] base.TestBase  - Execution completed
+INFO    2021-12-31 16:16:55,483 [main] base.TestBase  - Config file loaded!
+INFO    2021-12-31 16:16:55,484 [main] base.TestBase  - Config file loaded!
+INFO    2021-12-31 16:16:57,233 [main] base.TestBase  - Chrome launched
+INFO    2021-12-31 16:16:58,172 [main] base.TestBase  - Navigated to https://www.way2automation.com/angularjs-protractor/banking/#/login
+INFO    2021-12-31 16:16:58,356 [main] base.TestBase  - Inside Login test
+INFO    2021-12-31 16:17:01,630 [main] base.TestBase  - Login successfully executed
+INFO    2021-12-31 16:17:05,270 [main] base.TestBase  - Execution completed
+INFO    2021-12-31 16:51:07,032 [main] base.TestBase  - Config file loaded!
+INFO    2021-12-31 16:51:07,033 [main] base.TestBase  - Config file loaded!
+INFO    2021-12-31 16:51:09,101 [main] base.TestBase  - Chrome launched
+INFO    2021-12-31 16:51:10,067 [main] base.TestBase  - Navigated to https://www.way2automation.com/angularjs-protractor/banking/#/login
+INFO    2021-12-31 16:51:10,261 [main] base.TestBase  - Inside Login test
+INFO    2021-12-31 16:51:13,556 [main] base.TestBase  - Login successfully executed
+INFO    2021-12-31 16:51:17,271 [main] base.TestBase  - Execution completed
+INFO    2021-12-31 16:52:02,330 [main] base.TestBase  - Config file loaded!
+INFO    2021-12-31 16:52:02,332 [main] base.TestBase  - Config file loaded!
+INFO    2021-12-31 16:52:04,089 [main] base.TestBase  - Chrome launched
+INFO    2021-12-31 16:52:05,200 [main] base.TestBase  - Navigated to https://www.way2automation.com/angularjs-protractor/banking/#/login
+INFO    2021-12-31 16:52:05,383 [main] base.TestBase  - Inside Login test
+INFO    2021-12-31 16:52:08,629 [main] base.TestBase  - Login successfully executed
+INFO    2021-12-31 16:52:09,685 [main] base.TestBase  - Execution completed
+INFO    2021-12-31 16:57:12,295 [main] base.TestBase  - Config file loaded!
+INFO    2021-12-31 16:57:12,296 [main] base.TestBase  - Config file loaded!
+INFO    2021-12-31 16:57:14,341 [main] base.TestBase  - Chrome launched
+INFO    2021-12-31 16:57:15,331 [main] base.TestBase  - Navigated to https://www.way2automation.com/angularjs-protractor/banking/#/login
+INFO    2021-12-31 16:57:15,528 [main] base.TestBase  - Inside Login test
+INFO    2021-12-31 16:57:18,835 [main] base.TestBase  - Login successfully executed
+INFO    2021-12-31 16:57:20,089 [main] base.TestBase  - Execution completed
+INFO    2021-12-31 16:58:03,082 [main] base.TestBase  - Config file loaded!
+INFO    2021-12-31 16:58:03,083 [main] base.TestBase  - Config file loaded!
+INFO    2021-12-31 16:58:04,841 [main] base.TestBase  - Chrome launched
+INFO    2021-12-31 16:58:05,749 [main] base.TestBase  - Navigated to https://www.way2automation.com/angularjs-protractor/banking/#/login
+INFO    2021-12-31 16:58:05,943 [main] base.TestBase  - Inside Login test
+INFO    2021-12-31 16:58:09,341 [main] base.TestBase  - Login successfully executed
+INFO    2021-12-31 16:58:10,441 [main] base.TestBase  - Execution completed
+INFO    2021-12-31 17:07:25,540 [main] base.TestBase  - Config file loaded!
+INFO    2021-12-31 17:07:25,542 [main] base.TestBase  - Config file loaded!
+INFO    2021-12-31 17:07:27,412 [main] base.TestBase  - Chrome launched
+INFO    2021-12-31 17:07:28,340 [main] base.TestBase  - Navigated to https://www.way2automation.com/angularjs-protractor/banking/#/login
+INFO    2021-12-31 17:07:28,532 [main] base.TestBase  - Inside Login test
+INFO    2021-12-31 17:07:31,910 [main] base.TestBase  - Login successfully executed
+INFO    2021-12-31 17:07:33,084 [main] base.TestBase  - Execution completed
+INFO    2021-12-31 17:08:56,552 [main] base.TestBase  - Config file loaded!
+INFO    2021-12-31 17:08:56,554 [main] base.TestBase  - Config file loaded!
+INFO    2021-12-31 17:08:58,390 [main] base.TestBase  - Chrome launched
+INFO    2021-12-31 17:08:59,335 [main] base.TestBase  - Navigated to https://www.way2automation.com/angularjs-protractor/banking/#/login
+INFO    2021-12-31 17:08:59,542 [main] base.TestBase  - Inside Login test
+INFO    2021-12-31 17:09:02,884 [main] base.TestBase  - Login successfully executed
+INFO    2021-12-31 17:09:04,085 [main] base.TestBase  - Execution completed
+INFO    2021-12-31 17:16:37,667 [main] base.TestBase  - Config file loaded!
+INFO    2021-12-31 17:16:37,668 [main] base.TestBase  - Config file loaded!
+INFO    2021-12-31 17:16:39,782 [main] base.TestBase  - Chrome launched
+INFO    2021-12-31 17:16:40,797 [main] base.TestBase  - Navigated to https://www.way2automation.com/angularjs-protractor/banking/#/login
+INFO    2021-12-31 17:16:40,987 [main] base.TestBase  - Inside Login test
+INFO    2021-12-31 17:16:44,442 [main] base.TestBase  - Login successfully executed
+INFO    2021-12-31 17:16:46,294 [main] base.TestBase  - Execution completed
+INFO    2021-12-31 17:32:50,359 [main] base.TestBase  - Config file loaded!
+INFO    2021-12-31 17:32:50,365 [main] base.TestBase  - Config file loaded!
+INFO    2021-12-31 17:32:52,467 [main] base.TestBase  - Chrome launched
+INFO    2021-12-31 17:32:53,403 [main] base.TestBase  - Navigated to https://www.way2automation.com/angularjs-protractor/banking/#/login
+INFO    2021-12-31 17:32:53,592 [main] base.TestBase  - Inside Login test
+INFO    2021-12-31 17:32:56,839 [main] base.TestBase  - Login successfully executed
+INFO    2021-12-31 17:32:57,664 [main] base.TestBase  - Execution completed
+INFO    2021-12-31 17:34:09,068 [main] base.TestBase  - Config file loaded!
+INFO    2021-12-31 17:34:09,070 [main] base.TestBase  - Config file loaded!
+INFO    2021-12-31 17:34:11,193 [main] base.TestBase  - Chrome launched
+INFO    2021-12-31 17:34:12,198 [main] base.TestBase  - Navigated to https://www.way2automation.com/angularjs-protractor/banking/#/login
+INFO    2021-12-31 17:34:12,390 [main] base.TestBase  - Inside Login test
+INFO    2021-12-31 17:34:15,622 [main] base.TestBase  - Login successfully executed
+INFO    2021-12-31 17:34:17,633 [main] base.TestBase  - Execution completed
+INFO    2021-12-31 17:43:39,604 [main] base.TestBase  - Config file loaded!
+INFO    2021-12-31 17:43:39,605 [main] base.TestBase  - Config file loaded!
+INFO    2021-12-31 17:43:42,946 [main] base.TestBase  - Chrome launched
+INFO    2021-12-31 17:43:43,887 [main] base.TestBase  - Navigated to https://www.way2automation.com/angularjs-protractor/banking/#/login
+INFO    2021-12-31 17:43:44,086 [main] base.TestBase  - Inside Login test
+INFO    2021-12-31 17:43:47,362 [main] base.TestBase  - Login successfully executed
+INFO    2021-12-31 17:43:49,680 [main] base.TestBase  - Execution completed
+INFO    2021-12-31 17:51:51,317 [main] base.TestBase  - Config file loaded!
+INFO    2021-12-31 17:51:51,318 [main] base.TestBase  - Config file loaded!
+INFO    2021-12-31 17:51:54,446 [main] base.TestBase  - Chrome launched
+INFO    2021-12-31 17:51:55,451 [main] base.TestBase  - Navigated to https://www.way2automation.com/angularjs-protractor/banking/#/login
+INFO    2021-12-31 17:51:55,629 [main] base.TestBase  - Inside Login test
+INFO    2021-12-31 17:51:58,859 [main] base.TestBase  - Login successfully executed
+INFO    2021-12-31 17:52:00,909 [main] base.TestBase  - Execution completed
+INFO    2021-12-31 17:54:57,483 [main] base.TestBase  - Config file loaded!
+INFO    2021-12-31 17:54:57,485 [main] base.TestBase  - Config file loaded!
+INFO    2021-12-31 17:55:00,769 [main] base.TestBase  - Chrome launched
+INFO    2021-12-31 17:55:01,774 [main] base.TestBase  - Navigated to https://www.way2automation.com/angularjs-protractor/banking/#/login
+INFO    2021-12-31 17:55:01,994 [main] base.TestBase  - Inside Login test
+INFO    2021-12-31 17:55:05,236 [main] base.TestBase  - Login successfully executed
+INFO    2021-12-31 17:55:07,604 [main] base.TestBase  - Execution completed
+INFO    2021-12-31 17:58:30,764 [main] base.TestBase  - Config file loaded!
+INFO    2021-12-31 17:58:30,765 [main] base.TestBase  - Config file loaded!
+INFO    2021-12-31 17:58:33,945 [main] base.TestBase  - Chrome launched
+INFO    2021-12-31 17:58:35,103 [main] base.TestBase  - Navigated to https://www.way2automation.com/angularjs-protractor/banking/#/login
+INFO    2021-12-31 17:58:35,315 [main] base.TestBase  - Inside Login test
+INFO    2021-12-31 17:58:38,458 [main] base.TestBase  - Login successfully executed
+INFO    2021-12-31 17:58:40,799 [main] base.TestBase  - Execution completed
+INFO    2021-12-31 18:14:49,466 [main] base.TestBase  - Config file loaded!
+INFO    2021-12-31 18:14:49,467 [main] base.TestBase  - Config file loaded!
+INFO    2021-12-31 18:14:52,732 [main] base.TestBase  - Chrome launched
+INFO    2021-12-31 18:14:53,829 [main] base.TestBase  - Navigated to https://www.way2automation.com/angularjs-protractor/banking/#/login
+INFO    2021-12-31 18:14:54,051 [main] base.TestBase  - Inside Login test
+INFO    2021-12-31 18:14:57,292 [main] base.TestBase  - Login successfully executed
+INFO    2021-12-31 18:14:59,607 [main] base.TestBase  - Execution completed
+INFO    2021-12-31 18:16:09,730 [main] base.TestBase  - Config file loaded!
+INFO    2021-12-31 18:16:09,731 [main] base.TestBase  - Config file loaded!
+INFO    2021-12-31 18:16:13,045 [main] base.TestBase  - Chrome launched
+INFO    2021-12-31 18:16:14,042 [main] base.TestBase  - Navigated to https://www.way2automation.com/angularjs-protractor/banking/#/login
+INFO    2021-12-31 18:16:14,248 [main] base.TestBase  - Inside Login test
+INFO    2021-12-31 18:16:17,770 [main] base.TestBase  - Login successfully executed
+INFO    2021-12-31 18:16:20,088 [main] base.TestBase  - Execution completed
+INFO    2021-12-31 18:17:43,775 [main] base.TestBase  - Config file loaded!
+INFO    2021-12-31 18:17:43,776 [main] base.TestBase  - Config file loaded!
+INFO    2021-12-31 18:17:47,595 [main] base.TestBase  - Chrome launched
+INFO    2021-12-31 18:17:48,573 [main] base.TestBase  - Navigated to https://www.way2automation.com/angularjs-protractor/banking/#/login
+INFO    2021-12-31 18:17:48,782 [main] base.TestBase  - Inside Login test
+INFO    2021-12-31 18:17:52,245 [main] base.TestBase  - Login successfully executed
+INFO    2021-12-31 18:21:04,782 [main] base.TestBase  - Config file loaded!
+INFO    2021-12-31 18:21:04,784 [main] base.TestBase  - Config file loaded!
+INFO    2021-12-31 18:21:08,312 [main] base.TestBase  - Chrome launched
+INFO    2021-12-31 18:21:09,309 [main] base.TestBase  - Navigated to https://www.way2automation.com/angularjs-protractor/banking/#/login
+INFO    2021-12-31 18:21:09,548 [main] base.TestBase  - Inside Login test
+INFO    2021-12-31 18:21:12,713 [main] base.TestBase  - Login successfully executed
+INFO    2021-12-31 18:38:17,228 [main] base.TestBase  - Config file loaded!
+INFO    2021-12-31 18:38:17,229 [main] base.TestBase  - Config file loaded!
+INFO    2021-12-31 18:38:54,642 [main] base.TestBase  - Config file loaded!
+INFO    2021-12-31 18:38:54,643 [main] base.TestBase  - Config file loaded!
+INFO    2021-12-31 18:38:56,454 [main] base.TestBase  - Chrome launched
+INFO    2021-12-31 18:38:57,863 [main] base.TestBase  - Navigated to https://www.way2automation.com/angularjs-protractor/banking/#/login
+INFO    2021-12-31 18:38:58,044 [main] base.TestBase  - Inside Login test
+INFO    2021-12-31 18:39:01,192 [main] base.TestBase  - Login successfully executed
+INFO    2021-12-31 18:42:05,010 [main] base.TestBase  - Config file loaded!
+INFO    2021-12-31 18:42:05,011 [main] base.TestBase  - Config file loaded!
+INFO    2021-12-31 18:42:06,790 [main] base.TestBase  - Chrome launched
+INFO    2021-12-31 18:42:07,731 [main] base.TestBase  - Navigated to https://www.way2automation.com/angularjs-protractor/banking/#/login
+INFO    2021-12-31 18:42:07,918 [main] base.TestBase  - Inside Login test
+INFO    2021-12-31 18:42:11,267 [main] base.TestBase  - Login successfully executed
+INFO    2021-12-31 18:42:12,859 [main] base.TestBase  - Execution completed
+INFO    2021-12-31 18:42:54,207 [main] base.TestBase  - Config file loaded!
+INFO    2021-12-31 18:42:54,209 [main] base.TestBase  - Config file loaded!
+INFO    2021-12-31 18:44:38,044 [main] base.TestBase  - Config file loaded!
+INFO    2021-12-31 18:44:38,045 [main] base.TestBase  - Config file loaded!
+INFO    2021-12-31 18:46:05,502 [main] base.TestBase  - Config file loaded!
+INFO    2021-12-31 18:46:05,503 [main] base.TestBase  - Config file loaded!
+INFO    2021-12-31 18:46:07,246 [main] base.TestBase  - Chrome launched
+INFO    2021-12-31 18:46:08,169 [main] base.TestBase  - Navigated to https://www.way2automation.com/angularjs-protractor/banking/#/login
+INFO    2021-12-31 18:46:08,358 [main] base.TestBase  - Inside Login test
+INFO    2021-12-31 18:46:11,699 [main] base.TestBase  - Login successfully executed
+INFO    2021-12-31 18:46:13,484 [main] base.TestBase  - Execution completed
+INFO    2021-12-31 18:47:30,512 [main] base.TestBase  - Config file loaded!
+INFO    2021-12-31 18:47:30,513 [main] base.TestBase  - Config file loaded!
+INFO    2021-12-31 18:48:48,369 [main] base.TestBase  - Config file loaded!
+INFO    2021-12-31 18:48:48,371 [main] base.TestBase  - Config file loaded!
+INFO    2021-12-31 18:49:14,868 [main] base.TestBase  - Config file loaded!
+INFO    2021-12-31 18:49:14,869 [main] base.TestBase  - Config file loaded!
+INFO    2021-12-31 18:52:48,747 [main] base.TestBase  - Config file loaded!
+INFO    2021-12-31 18:52:48,748 [main] base.TestBase  - Config file loaded!
+INFO    2021-12-31 18:53:39,873 [main] base.TestBase  - Config file loaded!
+INFO    2021-12-31 18:53:39,874 [main] base.TestBase  - Config file loaded!
+INFO    2021-12-31 18:53:41,873 [main] base.TestBase  - Chrome launched
+INFO    2021-12-31 18:53:42,839 [main] base.TestBase  - Navigated to https://www.way2automation.com/angularjs-protractor/banking/#/login
+INFO    2021-12-31 18:53:43,029 [main] base.TestBase  - Inside Login test
+INFO    2021-12-31 18:53:46,455 [main] base.TestBase  - Login successfully executed
+INFO    2021-12-31 18:53:48,135 [main] base.TestBase  - Execution completed
+INFO    2021-12-31 18:54:27,018 [main] base.TestBase  - Config file loaded!
+INFO    2021-12-31 18:54:27,019 [main] base.TestBase  - Config file loaded!
+INFO    2021-12-31 18:54:29,907 [main] base.TestBase  - Chrome launched
+INFO    2021-12-31 18:54:30,880 [main] base.TestBase  - Navigated to https://www.way2automation.com/angularjs-protractor/banking/#/login
+INFO    2021-12-31 18:54:31,068 [main] base.TestBase  - Inside Login test
+INFO    2021-12-31 18:54:34,318 [main] base.TestBase  - Login successfully executed
+INFO    2021-12-31 18:54:36,621 [main] base.TestBase  - Execution completed
+INFO    2022-01-12 20:29:23,975 [main] base.TestBase  - Config file loaded!
+INFO    2022-01-12 20:29:23,980 [main] base.TestBase  - Config file loaded!
+INFO    2022-01-12 20:29:25,053 [main] io.github.bonigarcia.wdm.WebDriverManager  - Reading https://api.github.com/repos/mozilla/geckodriver/releases to seek geckodriver
+INFO    2022-01-12 20:29:25,440 [main] io.github.bonigarcia.wdm.WebDriverManager  - Exporting webdriver.gecko.driver as C:\Users\denni\.cache\selenium\geckodriver\win64\0.30.0\geckodriver.exe
+INFO    2022-01-12 20:29:32,823 [main] base.TestBase  - Navigated to https://www.way2automation.com/angularjs-protractor/banking/#/login
+INFO    2022-01-12 20:29:33,163 [main] base.TestBase  - Inside Login test
+INFO    2022-01-12 20:29:36,893 [main] base.TestBase  - Login successfully executed
+INFO    2022-01-12 20:29:39,357 [main] base.TestBase  - Execution completed
+INFO    2022-01-12 23:04:54,796 [main] base.TestBase  - Config file loaded!
+INFO    2022-01-12 23:04:54,797 [main] base.TestBase  - Config file loaded!
+INFO    2022-01-12 23:04:55,796 [main] io.github.bonigarcia.wdm.WebDriverManager  - Using chromedriver 97.0.4692.71 (resolved driver for Chrome 97)
+INFO    2022-01-12 23:04:55,819 [main] io.github.bonigarcia.wdm.WebDriverManager  - Exporting webdriver.chrome.driver as C:\Users\denni\.cache\selenium\chromedriver\win32\97.0.4692.71\chromedriver.exe
+INFO    2022-01-12 23:04:58,366 [main] base.TestBase  - Chrome launched
+INFO    2022-01-12 23:04:59,709 [main] base.TestBase  - Navigated to https://www.way2automation.com/angularjs-protractor/banking/#/login
+INFO    2022-01-12 23:04:59,918 [main] base.TestBase  - Inside Login test
+INFO    2022-01-12 23:04:59,969 [main] base.TestBase  - Clicking on an Element : bmlBtn_CSS
+INFO    2022-01-12 23:05:03,001 [main] base.TestBase  - Login successfully executed
+INFO    2022-01-12 23:05:34,764 [main] base.TestBase  - Config file loaded!
+INFO    2022-01-12 23:05:34,765 [main] base.TestBase  - Config file loaded!
+INFO    2022-01-12 23:05:35,556 [main] io.github.bonigarcia.wdm.WebDriverManager  - Reading https://api.github.com/repos/mozilla/geckodriver/releases to seek geckodriver
+INFO    2022-01-12 23:05:35,880 [main] io.github.bonigarcia.wdm.WebDriverManager  - Exporting webdriver.gecko.driver as C:\Users\denni\.cache\selenium\geckodriver\win64\0.30.0\geckodriver.exe
+INFO    2022-01-12 23:05:40,714 [main] base.TestBase  - Navigated to https://www.way2automation.com/angularjs-protractor/banking/#/login
+INFO    2022-01-12 23:05:41,048 [main] base.TestBase  - Inside Login test
+INFO    2022-01-12 23:05:41,369 [main] base.TestBase  - Clicking on an Element : bmlBtn_CSS
+INFO    2022-01-12 23:05:44,383 [main] base.TestBase  - Login successfully executed
+INFO    2022-01-13 17:34:25,457 [main] base.TestBase  - Config file loaded!
+INFO    2022-01-13 17:34:25,561 [main] base.TestBase  - Config file loaded!
+INFO    2022-01-13 17:34:26,621 [main] io.github.bonigarcia.wdm.WebDriverManager  - Using chromedriver 97.0.4692.71 (resolved driver for Chrome 97)
+INFO    2022-01-13 17:34:26,643 [main] io.github.bonigarcia.wdm.WebDriverManager  - Exporting webdriver.chrome.driver as C:\Users\denni\.cache\selenium\chromedriver\win32\97.0.4692.71\chromedriver.exe
+INFO    2022-01-13 17:34:29,691 [main] base.TestBase  - Chrome launched
+INFO    2022-01-13 17:34:34,776 [main] base.TestBase  - Navigated to https://www.way2automation.com/angularjs-protractor/banking/#/login
+INFO    2022-01-13 17:34:34,983 [main] base.TestBase  - Inside Login test
+INFO    2022-01-13 17:34:38,935 [main] base.TestBase  - Clicking on an Element : bmlBtn_CSS
+INFO    2022-01-13 17:34:41,961 [main] base.TestBase  - Login successfully executed
+INFO    2022-01-13 17:37:09,684 [main] base.TestBase  - Config file loaded!
+INFO    2022-01-13 17:37:09,685 [main] base.TestBase  - Config file loaded!
+INFO    2022-01-13 17:37:10,469 [main] io.github.bonigarcia.wdm.WebDriverManager  - Reading https://api.github.com/repos/mozilla/geckodriver/releases to seek geckodriver
+INFO    2022-01-13 17:37:10,823 [main] io.github.bonigarcia.wdm.WebDriverManager  - Exporting webdriver.gecko.driver as C:\Users\denni\.cache\selenium\geckodriver\win64\0.30.0\geckodriver.exe
+INFO    2022-01-13 17:37:17,383 [main] base.TestBase  - Navigated to https://www.way2automation.com/angularjs-protractor/banking/#/login
+INFO    2022-01-13 17:37:17,682 [main] org.testng.internal.Utils  - [Utils] DynamicGraphHelper.createDynamicGraph() took 6 ms.
+INFO    2022-01-13 17:37:25,282 [main] base.TestBase  - Inside Login test
+INFO    2022-01-13 17:37:26,374 [main] base.TestBase  - Execution completed
+INFO    2022-01-13 17:37:26,378 [main] org.testng.internal.Utils  - [TestNG] Time taken by org.testng.internal.ExitCodeListener@7cdb7fc: 0 ms
+INFO    2022-01-13 17:37:26,449 [main] org.testng.internal.Utils  - [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@4d43a1b7: 71 ms
+INFO    2022-01-13 17:37:26,481 [main] org.testng.internal.Utils  - [TestNG] Time taken by org.testng.reporters.jq.Main@72a7aa4f: 32 ms
+INFO    2022-01-13 17:37:26,490 [main] org.testng.internal.Utils  - [TestNG] Time taken by org.testng.reporters.FailedReporter@1d283d1: 9 ms
+INFO    2022-01-13 17:37:26,507 [main] org.testng.internal.Utils  - [TestNG] Time taken by org.testng.reporters.XMLReporter@bf2aa32: 17 ms
+INFO    2022-01-13 17:37:26,515 [main] org.testng.internal.Utils  - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@77ccded4: 8 ms
+INFO    2022-01-13 17:37:26,566 [main] org.testng.internal.Utils  - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@6121a7dd: 51 ms
+INFO    2022-01-13 17:38:02,131 [main] base.TestBase  - Config file loaded!
+INFO    2022-01-13 17:38:02,132 [main] base.TestBase  - Config file loaded!
+INFO    2022-01-13 17:38:02,924 [main] io.github.bonigarcia.wdm.WebDriverManager  - Reading https://api.github.com/repos/mozilla/geckodriver/releases to seek geckodriver
+INFO    2022-01-13 17:38:03,249 [main] io.github.bonigarcia.wdm.WebDriverManager  - Exporting webdriver.gecko.driver as C:\Users\denni\.cache\selenium\geckodriver\win64\0.30.0\geckodriver.exe
+INFO    2022-01-13 17:38:08,308 [main] base.TestBase  - Navigated to https://www.way2automation.com/angularjs-protractor/banking/#/login
+INFO    2022-01-13 17:38:08,648 [main] base.TestBase  - Inside Login test
+INFO    2022-01-13 17:38:08,901 [main] base.TestBase  - Clicking on an Element : bmlBtn_CSS
+INFO    2022-01-13 17:38:11,925 [main] base.TestBase  - Login successfully executed
+INFO    2022-01-13 17:50:38,975 [main] base.TestBase  - Config file loaded!
+INFO    2022-01-13 17:50:38,976 [main] base.TestBase  - Config file loaded!
+INFO    2022-01-13 17:50:39,270 [main] io.github.bonigarcia.wdm.WebDriverManager  - Using chromedriver 97.0.4692.71 (resolved driver for Chrome 97)
+INFO    2022-01-13 17:50:39,297 [main] io.github.bonigarcia.wdm.WebDriverManager  - Exporting webdriver.chrome.driver as C:\Users\denni\.cache\selenium\chromedriver\win32\97.0.4692.71\chromedriver.exe
+INFO    2022-01-13 17:50:41,256 [main] base.TestBase  - Chrome launched
+INFO    2022-01-13 17:50:42,569 [main] base.TestBase  - Navigated to https://www.way2automation.com/angularjs-protractor/banking/#/login
+INFO    2022-01-13 17:50:42,788 [main] base.TestBase  - Inside Login test
+INFO    2022-01-13 17:50:43,678 [main] base.TestBase  - Clicking on an Element : bmlBtn_CSS
+INFO    2022-01-13 17:50:46,712 [main] base.TestBase  - Login successfully executed
+INFO    2022-01-13 18:03:52,938 [main] base.TestBase  - Config file loaded!
+INFO    2022-01-13 18:03:52,939 [main] base.TestBase  - Config file loaded!
+INFO    2022-01-13 18:03:53,224 [main] io.github.bonigarcia.wdm.WebDriverManager  - Using chromedriver 97.0.4692.71 (resolved driver for Chrome 97)
+INFO    2022-01-13 18:03:53,242 [main] io.github.bonigarcia.wdm.WebDriverManager  - Exporting webdriver.chrome.driver as C:\Users\denni\.cache\selenium\chromedriver\win32\97.0.4692.71\chromedriver.exe
+INFO    2022-01-13 18:03:55,229 [main] base.TestBase  - Chrome launched
+INFO    2022-01-13 18:03:56,737 [main] base.TestBase  - Navigated to https://www.way2automation.com/angularjs-protractor/banking/#/login
+INFO    2022-01-13 18:03:56,942 [main] base.TestBase  - Inside Login test
+INFO    2022-01-13 18:04:00,200 [main] base.TestBase  - Clicking on an Element : bmlBtn_CSS
+INFO    2022-01-13 18:04:03,233 [main] base.TestBase  - Login successfully executed
+INFO    2022-01-13 18:04:03,705 [main] base.TestBase  - Clicking on an Element : addCustbtn_CSS
+INFO    2022-01-13 18:04:04,484 [main] base.TestBase  - Typing in an Element : firstName_CSS entered value as : Denise
+INFO    2022-01-13 18:04:04,570 [main] base.TestBase  - Typing in an Element : lastName_CSS entered value as : Bumbacea
+INFO    2022-01-13 18:04:04,641 [main] base.TestBase  - Typing in an Element : postCode_CSS entered value as : dsfsdf
+INFO    2022-01-13 18:04:04,692 [main] base.TestBase  - Clicking on an Element : addbtn_CSS
+INFO    2022-01-13 18:04:04,787 [main] base.TestBase  - Clicking on an Element : addCustbtn_CSS
+INFO    2022-01-13 18:04:04,840 [main] base.TestBase  - Typing in an Element : firstName_CSS entered value as : Iulia
+INFO    2022-01-13 18:04:04,902 [main] base.TestBase  - Typing in an Element : lastName_CSS entered value as : Popescu
+INFO    2022-01-13 18:04:04,952 [main] base.TestBase  - Typing in an Element : postCode_CSS entered value as : fdsf
+INFO    2022-01-13 18:04:04,986 [main] base.TestBase  - Clicking on an Element : addbtn_CSS
+INFO    2022-01-13 18:04:05,055 [main] base.TestBase  - Clicking on an Element : addCustbtn_CSS
+INFO    2022-01-13 18:04:05,108 [main] base.TestBase  - Typing in an Element : firstName_CSS entered value as : Andrei
+INFO    2022-01-13 18:04:05,160 [main] base.TestBase  - Typing in an Element : lastName_CSS entered value as : Ionescu
+INFO    2022-01-13 18:04:05,211 [main] base.TestBase  - Typing in an Element : postCode_CSS entered value as : fdasda
+INFO    2022-01-13 18:04:05,246 [main] base.TestBase  - Clicking on an Element : addbtn_CSS
+INFO    2022-01-13 18:04:05,702 [main] base.TestBase  - Execution completed
+INFO    2022-01-13 18:08:10,717 [main] base.TestBase  - Config file loaded!
+INFO    2022-01-13 18:08:10,718 [main] base.TestBase  - Config file loaded!
+INFO    2022-01-13 18:08:11,008 [main] io.github.bonigarcia.wdm.WebDriverManager  - Using chromedriver 97.0.4692.71 (resolved driver for Chrome 97)
+INFO    2022-01-13 18:08:11,026 [main] io.github.bonigarcia.wdm.WebDriverManager  - Exporting webdriver.chrome.driver as C:\Users\denni\.cache\selenium\chromedriver\win32\97.0.4692.71\chromedriver.exe
+INFO    2022-01-13 18:08:13,023 [main] base.TestBase  - Chrome launched
+INFO    2022-01-13 18:08:15,653 [main] base.TestBase  - Navigated to https://www.way2automation.com/angularjs-protractor/banking/#/login
+INFO    2022-01-13 18:08:15,847 [main] base.TestBase  - Inside Login test
+INFO    2022-01-13 18:08:17,523 [main] base.TestBase  - Clicking on an Element : bmlBtn_CSS
+INFO    2022-01-13 18:08:20,547 [main] base.TestBase  - Login successfully executed
+INFO    2022-01-13 18:08:21,028 [main] base.TestBase  - Clicking on an Element : addCustbtn_CSS
+INFO    2022-01-13 18:08:22,227 [main] base.TestBase  - Typing in an Element : firstName_CSS entered value as : Denise
+INFO    2022-01-13 18:08:22,325 [main] base.TestBase  - Typing in an Element : lastName_CSS entered value as : Bumbacea
+INFO    2022-01-13 18:08:22,399 [main] base.TestBase  - Typing in an Element : postCode_CSS entered value as : dsfsdf
+INFO    2022-01-13 18:08:22,452 [main] base.TestBase  - Clicking on an Element : addbtn_CSS
+INFO    2022-01-13 18:08:22,526 [main] base.TestBase  - Clicking on an Element : addCustbtn_CSS
+INFO    2022-01-13 18:08:22,575 [main] base.TestBase  - Typing in an Element : firstName_CSS entered value as : Iulia
+INFO    2022-01-13 18:08:22,631 [main] base.TestBase  - Typing in an Element : lastName_CSS entered value as : Popescu
+INFO    2022-01-13 18:08:22,683 [main] base.TestBase  - Typing in an Element : postCode_CSS entered value as : fdsf
+INFO    2022-01-13 18:08:22,719 [main] base.TestBase  - Clicking on an Element : addbtn_CSS
+INFO    2022-01-13 18:08:22,787 [main] base.TestBase  - Clicking on an Element : addCustbtn_CSS
+INFO    2022-01-13 18:08:22,845 [main] base.TestBase  - Typing in an Element : firstName_CSS entered value as : Andrei
+INFO    2022-01-13 18:08:22,903 [main] base.TestBase  - Typing in an Element : lastName_CSS entered value as : Ionescu
+INFO    2022-01-13 18:08:22,959 [main] base.TestBase  - Typing in an Element : postCode_CSS entered value as : fdasda
+INFO    2022-01-13 18:08:23,000 [main] base.TestBase  - Clicking on an Element : addbtn_CSS
+INFO    2022-01-13 18:08:23,415 [main] base.TestBase  - Execution completed
+INFO    2022-01-13 18:08:56,185 [main] base.TestBase  - Config file loaded!
+INFO    2022-01-13 18:08:56,186 [main] base.TestBase  - Config file loaded!
+INFO    2022-01-13 18:08:56,689 [main] io.github.bonigarcia.wdm.WebDriverManager  - Using chromedriver 97.0.4692.71 (resolved driver for Chrome 97)
+INFO    2022-01-13 18:08:56,709 [main] io.github.bonigarcia.wdm.WebDriverManager  - Exporting webdriver.chrome.driver as C:\Users\denni\.cache\selenium\chromedriver\win32\97.0.4692.71\chromedriver.exe
+INFO    2022-01-13 18:08:59,206 [main] base.TestBase  - Chrome launched
+INFO    2022-01-13 18:09:02,347 [main] base.TestBase  - Navigated to https://www.way2automation.com/angularjs-protractor/banking/#/login
+INFO    2022-01-13 18:09:02,547 [main] base.TestBase  - Inside Login test
+INFO    2022-01-13 18:09:04,103 [main] base.TestBase  - Clicking on an Element : bmlBtn_CSS
+INFO    2022-01-13 18:09:07,134 [main] base.TestBase  - Login successfully executed
+INFO    2022-01-13 18:09:12,995 [main] base.TestBase  - Clicking on an Element : addCustbtn_CSS
+INFO    2022-01-13 18:09:14,416 [main] base.TestBase  - Typing in an Element : firstName_CSS entered value as : Denise
+INFO    2022-01-13 18:09:14,500 [main] base.TestBase  - Typing in an Element : lastName_CSS entered value as : Bumbacea
+INFO    2022-01-13 18:09:14,565 [main] base.TestBase  - Typing in an Element : postCode_CSS entered value as : dsfsdf
+INFO    2022-01-13 18:09:14,619 [main] base.TestBase  - Clicking on an Element : addbtn_CSS
+INFO    2022-01-13 18:09:14,706 [main] base.TestBase  - Clicking on an Element : addCustbtn_CSS
+INFO    2022-01-13 18:09:14,754 [main] base.TestBase  - Typing in an Element : firstName_CSS entered value as : Iulia
+INFO    2022-01-13 18:09:14,803 [main] base.TestBase  - Typing in an Element : lastName_CSS entered value as : Popescu
+INFO    2022-01-13 18:09:14,852 [main] base.TestBase  - Typing in an Element : postCode_CSS entered value as : fdsf
+INFO    2022-01-13 18:09:14,884 [main] base.TestBase  - Clicking on an Element : addbtn_CSS
+INFO    2022-01-13 18:09:14,934 [main] base.TestBase  - Clicking on an Element : addCustbtn_CSS
+INFO    2022-01-13 18:09:14,987 [main] base.TestBase  - Typing in an Element : firstName_CSS entered value as : Andrei
+INFO    2022-01-13 18:09:15,033 [main] base.TestBase  - Typing in an Element : lastName_CSS entered value as : Ionescu
+INFO    2022-01-13 18:09:15,080 [main] base.TestBase  - Typing in an Element : postCode_CSS entered value as : fdasda
+INFO    2022-01-13 18:09:15,112 [main] base.TestBase  - Clicking on an Element : addbtn_CSS
+INFO    2022-01-13 18:09:26,197 [main] base.TestBase  - Execution completed
+INFO    2022-01-13 18:10:44,374 [main] base.TestBase  - Config file loaded!
+INFO    2022-01-13 18:10:44,375 [main] base.TestBase  - Config file loaded!
+INFO    2022-01-13 18:10:44,887 [main] io.github.bonigarcia.wdm.WebDriverManager  - Using chromedriver 97.0.4692.71 (resolved driver for Chrome 97)
+INFO    2022-01-13 18:10:44,905 [main] io.github.bonigarcia.wdm.WebDriverManager  - Exporting webdriver.chrome.driver as C:\Users\denni\.cache\selenium\chromedriver\win32\97.0.4692.71\chromedriver.exe
+INFO    2022-01-13 18:10:47,475 [main] base.TestBase  - Chrome launched
+INFO    2022-01-13 18:10:49,057 [main] base.TestBase  - Navigated to https://www.way2automation.com/angularjs-protractor/banking/#/login
+INFO    2022-01-13 18:10:49,256 [main] base.TestBase  - Inside Login test
+INFO    2022-01-13 18:10:50,611 [main] base.TestBase  - Clicking on an Element : bmlBtn_CSS
+INFO    2022-01-13 18:10:53,645 [main] base.TestBase  - Login successfully executed
+INFO    2022-01-13 18:10:59,486 [main] base.TestBase  - Clicking on an Element : addCustbtn_CSS
+INFO    2022-01-13 18:11:02,539 [main] base.TestBase  - Typing in an Element : firstName_CSS entered value as : Denise
+INFO    2022-01-13 18:11:02,620 [main] base.TestBase  - Typing in an Element : lastName_CSS entered value as : Bumbacea
+INFO    2022-01-13 18:11:02,682 [main] base.TestBase  - Typing in an Element : postCode_CSS entered value as : dsfsdf
+INFO    2022-01-13 18:11:02,736 [main] base.TestBase  - Clicking on an Element : addbtn_CSS
+INFO    2022-01-13 18:11:02,830 [main] base.TestBase  - Clicking on an Element : addCustbtn_CSS
+INFO    2022-01-13 18:11:02,881 [main] base.TestBase  - Typing in an Element : firstName_CSS entered value as : Iulia
+INFO    2022-01-13 18:11:02,946 [main] base.TestBase  - Typing in an Element : lastName_CSS entered value as : Popescu
+INFO    2022-01-13 18:11:02,995 [main] base.TestBase  - Typing in an Element : postCode_CSS entered value as : fdsf
+INFO    2022-01-13 18:11:03,036 [main] base.TestBase  - Clicking on an Element : addbtn_CSS
+INFO    2022-01-13 18:11:03,091 [main] base.TestBase  - Clicking on an Element : addCustbtn_CSS
+INFO    2022-01-13 18:11:03,135 [main] base.TestBase  - Typing in an Element : firstName_CSS entered value as : Andrei
+INFO    2022-01-13 18:11:03,181 [main] base.TestBase  - Typing in an Element : lastName_CSS entered value as : Ionescu
+INFO    2022-01-13 18:11:03,229 [main] base.TestBase  - Typing in an Element : postCode_CSS entered value as : fdasda
+INFO    2022-01-13 18:11:03,261 [main] base.TestBase  - Clicking on an Element : addbtn_CSS
+INFO    2022-01-13 18:11:14,467 [main] base.TestBase  - Execution completed
+INFO    2022-01-13 18:11:56,442 [main] base.TestBase  - Config file loaded!
+INFO    2022-01-13 18:11:56,444 [main] base.TestBase  - Config file loaded!
+INFO    2022-01-13 18:11:56,975 [main] io.github.bonigarcia.wdm.WebDriverManager  - Using chromedriver 97.0.4692.71 (resolved driver for Chrome 97)
+INFO    2022-01-13 18:11:56,992 [main] io.github.bonigarcia.wdm.WebDriverManager  - Exporting webdriver.chrome.driver as C:\Users\denni\.cache\selenium\chromedriver\win32\97.0.4692.71\chromedriver.exe
+INFO    2022-01-13 18:11:59,495 [main] base.TestBase  - Chrome launched
+INFO    2022-01-13 18:12:01,445 [main] base.TestBase  - Navigated to https://www.way2automation.com/angularjs-protractor/banking/#/login
+INFO    2022-01-13 18:12:01,657 [main] base.TestBase  - Inside Login test
+INFO    2022-01-13 18:12:02,375 [main] base.TestBase  - Clicking on an Element : bmlBtn_CSS
+INFO    2022-01-13 18:12:05,403 [main] base.TestBase  - Login successfully executed
+INFO    2022-01-13 18:12:11,079 [main] base.TestBase  - Clicking on an Element : addCustbtn_CSS
+INFO    2022-01-13 18:12:11,417 [main] base.TestBase  - Typing in an Element : firstName_CSS entered value as : Denise
+INFO    2022-01-13 18:12:11,497 [main] base.TestBase  - Typing in an Element : lastName_CSS entered value as : Bumbacea
+INFO    2022-01-13 18:12:11,570 [main] base.TestBase  - Typing in an Element : postCode_CSS entered value as : dsfsdf
+INFO    2022-01-13 18:12:11,625 [main] base.TestBase  - Clicking on an Element : addbtn_CSS
+INFO    2022-01-13 18:12:11,712 [main] base.TestBase  - Clicking on an Element : addCustbtn_CSS
+INFO    2022-01-13 18:12:11,757 [main] base.TestBase  - Typing in an Element : firstName_CSS entered value as : Iulia
+INFO    2022-01-13 18:12:11,805 [main] base.TestBase  - Typing in an Element : lastName_CSS entered value as : Popescu
+INFO    2022-01-13 18:12:11,853 [main] base.TestBase  - Typing in an Element : postCode_CSS entered value as : fdsf
+INFO    2022-01-13 18:12:11,886 [main] base.TestBase  - Clicking on an Element : addbtn_CSS
+INFO    2022-01-13 18:12:11,947 [main] base.TestBase  - Clicking on an Element : addCustbtn_CSS
+INFO    2022-01-13 18:12:11,997 [main] base.TestBase  - Typing in an Element : firstName_CSS entered value as : Andrei
+INFO    2022-01-13 18:12:12,045 [main] base.TestBase  - Typing in an Element : lastName_CSS entered value as : Ionescu
+INFO    2022-01-13 18:12:12,090 [main] base.TestBase  - Typing in an Element : postCode_CSS entered value as : fdasda
+INFO    2022-01-13 18:12:12,124 [main] base.TestBase  - Clicking on an Element : addbtn_CSS
+INFO    2022-01-13 18:12:23,500 [main] base.TestBase  - Execution completed
+INFO    2022-01-13 18:14:50,020 [main] base.TestBase  - Config file loaded!
+INFO    2022-01-13 18:14:50,021 [main] base.TestBase  - Config file loaded!
+INFO    2022-01-13 18:14:50,556 [main] io.github.bonigarcia.wdm.WebDriverManager  - Using chromedriver 97.0.4692.71 (resolved driver for Chrome 97)
+INFO    2022-01-13 18:14:50,574 [main] io.github.bonigarcia.wdm.WebDriverManager  - Exporting webdriver.chrome.driver as C:\Users\denni\.cache\selenium\chromedriver\win32\97.0.4692.71\chromedriver.exe
+INFO    2022-01-13 18:14:53,458 [main] base.TestBase  - Chrome launched
+INFO    2022-01-13 18:14:54,625 [main] base.TestBase  - Navigated to https://www.way2automation.com/angularjs-protractor/banking/#/login
+INFO    2022-01-13 18:14:54,834 [main] base.TestBase  - Inside Login test
+INFO    2022-01-13 18:14:57,464 [main] base.TestBase  - Clicking on an Element : bmlBtn_CSS
+INFO    2022-01-13 18:15:00,498 [main] base.TestBase  - Login successfully executed
+INFO    2022-01-13 18:15:01,063 [main] base.TestBase  - Clicking on an Element : addCustbtn_CSS
+INFO    2022-01-13 18:15:02,778 [main] base.TestBase  - Typing in an Element : firstName_CSS entered value as : Denise
+INFO    2022-01-13 18:15:02,860 [main] base.TestBase  - Typing in an Element : lastName_CSS entered value as : Bumbacea
+INFO    2022-01-13 18:15:02,937 [main] base.TestBase  - Typing in an Element : postCode_CSS entered value as : dsfsdf
+INFO    2022-01-13 18:15:02,997 [main] base.TestBase  - Clicking on an Element : addbtn_CSS
+INFO    2022-01-13 18:15:03,065 [main] base.TestBase  - Clicking on an Element : addCustbtn_CSS
+INFO    2022-01-13 18:15:03,116 [main] base.TestBase  - Typing in an Element : firstName_CSS entered value as : Iulia
+INFO    2022-01-13 18:15:03,166 [main] base.TestBase  - Typing in an Element : lastName_CSS entered value as : Popescu
+INFO    2022-01-13 18:15:03,211 [main] base.TestBase  - Typing in an Element : postCode_CSS entered value as : fdsf
+INFO    2022-01-13 18:15:03,244 [main] base.TestBase  - Clicking on an Element : addbtn_CSS
+INFO    2022-01-13 18:15:03,298 [main] base.TestBase  - Clicking on an Element : addCustbtn_CSS
+INFO    2022-01-13 18:15:03,348 [main] base.TestBase  - Typing in an Element : firstName_CSS entered value as : Andrei
+INFO    2022-01-13 18:15:03,401 [main] base.TestBase  - Typing in an Element : lastName_CSS entered value as : Ionescu
+INFO    2022-01-13 18:15:03,455 [main] base.TestBase  - Typing in an Element : postCode_CSS entered value as : fdasda
+INFO    2022-01-13 18:15:03,502 [main] base.TestBase  - Clicking on an Element : addbtn_CSS
+INFO    2022-01-13 18:15:04,496 [main] base.TestBase  - Execution completed
+INFO    2022-01-13 18:16:32,403 [main] base.TestBase  - Config file loaded!
+INFO    2022-01-13 18:16:32,404 [main] base.TestBase  - Config file loaded!
+INFO    2022-01-13 18:16:32,903 [main] io.github.bonigarcia.wdm.WebDriverManager  - Using chromedriver 97.0.4692.71 (resolved driver for Chrome 97)
+INFO    2022-01-13 18:16:32,919 [main] io.github.bonigarcia.wdm.WebDriverManager  - Exporting webdriver.chrome.driver as C:\Users\denni\.cache\selenium\chromedriver\win32\97.0.4692.71\chromedriver.exe
+INFO    2022-01-13 18:16:35,451 [main] base.TestBase  - Chrome launched
+INFO    2022-01-13 18:16:38,120 [main] base.TestBase  - Navigated to https://www.way2automation.com/angularjs-protractor/banking/#/login
+INFO    2022-01-13 18:16:38,321 [main] base.TestBase  - Inside Login test
+INFO    2022-01-13 18:16:38,532 [main] base.TestBase  - Clicking on an Element : bmlBtn_CSS
+INFO    2022-01-13 18:16:41,561 [main] base.TestBase  - Login successfully executed
+INFO    2022-01-13 18:16:47,435 [main] base.TestBase  - Clicking on an Element : addCustbtn_CSS
+INFO    2022-01-13 18:16:48,338 [main] base.TestBase  - Typing in an Element : firstName_CSS entered value as : Denise
+INFO    2022-01-13 18:16:48,418 [main] base.TestBase  - Typing in an Element : lastName_CSS entered value as : Bumbacea
+INFO    2022-01-13 18:16:48,484 [main] base.TestBase  - Typing in an Element : postCode_CSS entered value as : dsfsdf
+INFO    2022-01-13 18:16:48,543 [main] base.TestBase  - Clicking on an Element : addbtn_CSS
+INFO    2022-01-13 18:16:48,629 [main] base.TestBase  - Clicking on an Element : addCustbtn_CSS
+INFO    2022-01-13 18:16:48,678 [main] base.TestBase  - Typing in an Element : firstName_CSS entered value as : Iulia
+INFO    2022-01-13 18:16:48,729 [main] base.TestBase  - Typing in an Element : lastName_CSS entered value as : Popescu
+INFO    2022-01-13 18:16:48,781 [main] base.TestBase  - Typing in an Element : postCode_CSS entered value as : fdsf
+INFO    2022-01-13 18:16:48,815 [main] base.TestBase  - Clicking on an Element : addbtn_CSS
+INFO    2022-01-13 18:16:48,865 [main] base.TestBase  - Clicking on an Element : addCustbtn_CSS
+INFO    2022-01-13 18:16:48,912 [main] base.TestBase  - Typing in an Element : firstName_CSS entered value as : Andrei
+INFO    2022-01-13 18:16:48,967 [main] base.TestBase  - Typing in an Element : lastName_CSS entered value as : Ionescu
+INFO    2022-01-13 18:16:49,013 [main] base.TestBase  - Typing in an Element : postCode_CSS entered value as : fdasda
+INFO    2022-01-13 18:16:49,047 [main] base.TestBase  - Clicking on an Element : addbtn_CSS
+INFO    2022-01-13 18:17:00,095 [main] base.TestBase  - Execution completed
+INFO    2022-01-13 18:24:58,382 [main] base.TestBase  - Config file loaded!
+INFO    2022-01-13 18:24:58,383 [main] base.TestBase  - Config file loaded!
+INFO    2022-01-13 18:24:58,887 [main] io.github.bonigarcia.wdm.WebDriverManager  - Using chromedriver 97.0.4692.71 (resolved driver for Chrome 97)
+INFO    2022-01-13 18:24:58,904 [main] io.github.bonigarcia.wdm.WebDriverManager  - Exporting webdriver.chrome.driver as C:\Users\denni\.cache\selenium\chromedriver\win32\97.0.4692.71\chromedriver.exe
+INFO    2022-01-13 18:25:01,394 [main] base.TestBase  - Chrome launched
+INFO    2022-01-13 18:25:02,515 [main] base.TestBase  - Navigated to https://www.way2automation.com/angularjs-protractor/banking/#/login
+INFO    2022-01-13 18:25:02,714 [main] base.TestBase  - Inside Login test
+INFO    2022-01-13 18:25:03,116 [main] base.TestBase  - Clicking on an Element : bmlBtn_CSS
+INFO    2022-01-13 18:25:06,152 [main] base.TestBase  - Login successfully executed
+INFO    2022-01-13 18:25:11,827 [main] base.TestBase  - Clicking on an Element : addCustbtn_CSS
+INFO    2022-01-13 18:25:13,362 [main] base.TestBase  - Typing in an Element : firstName_CSS entered value as : Denise
+INFO    2022-01-13 18:25:13,444 [main] base.TestBase  - Typing in an Element : lastName_CSS entered value as : Bumbacea
+INFO    2022-01-13 18:25:13,513 [main] base.TestBase  - Typing in an Element : postCode_CSS entered value as : dsfsdf
+INFO    2022-01-13 18:25:13,571 [main] base.TestBase  - Clicking on an Element : addbtn_CSS
+INFO    2022-01-13 18:25:13,662 [main] base.TestBase  - Clicking on an Element : addCustbtn_CSS
+INFO    2022-01-13 18:25:13,711 [main] base.TestBase  - Typing in an Element : firstName_CSS entered value as : Iulia
+INFO    2022-01-13 18:25:13,762 [main] base.TestBase  - Typing in an Element : lastName_CSS entered value as : Popescu
+INFO    2022-01-13 18:25:13,812 [main] base.TestBase  - Typing in an Element : postCode_CSS entered value as : fdsf
+INFO    2022-01-13 18:25:13,846 [main] base.TestBase  - Clicking on an Element : addbtn_CSS
+INFO    2022-01-13 18:25:13,897 [main] base.TestBase  - Clicking on an Element : addCustbtn_CSS
+INFO    2022-01-13 18:25:13,953 [main] base.TestBase  - Typing in an Element : firstName_CSS entered value as : Andrei
+INFO    2022-01-13 18:25:14,000 [main] base.TestBase  - Typing in an Element : lastName_CSS entered value as : Ionescu
+INFO    2022-01-13 18:25:14,049 [main] base.TestBase  - Typing in an Element : postCode_CSS entered value as : fdasda
+INFO    2022-01-13 18:25:14,088 [main] base.TestBase  - Clicking on an Element : addbtn_CSS
+INFO    2022-01-13 18:25:25,245 [main] base.TestBase  - Execution completed
+INFO    2022-01-14 18:12:51,484 [main] base.TestBase  - Config file loaded!
+INFO    2022-01-14 18:12:51,491 [main] base.TestBase  - Config file loaded!
+INFO    2022-01-14 18:12:52,548 [main] io.github.bonigarcia.wdm.WebDriverManager  - Using chromedriver 97.0.4692.71 (resolved driver for Chrome 97)
+INFO    2022-01-14 18:12:52,574 [main] io.github.bonigarcia.wdm.WebDriverManager  - Exporting webdriver.chrome.driver as C:\Users\denni\.cache\selenium\chromedriver\win32\97.0.4692.71\chromedriver.exe
+INFO    2022-01-14 18:12:54,749 [main] base.TestBase  - Chrome launched
+INFO    2022-01-14 18:12:56,193 [main] base.TestBase  - Navigated to https://www.way2automation.com/angularjs-protractor/banking/#/login
+INFO    2022-01-14 18:12:56,373 [main] base.TestBase  - Inside Login test
+INFO    2022-01-14 18:12:57,353 [main] base.TestBase  - Clicking on an Element : bmlBtn_CSS
+INFO    2022-01-14 18:13:00,380 [main] base.TestBase  - Login successfully executed
+INFO    2022-01-14 18:13:01,000 [main] base.TestBase  - Clicking on an Element : addCustbtn_CSS
+INFO    2022-01-14 18:13:01,272 [main] base.TestBase  - Typing in an Element : firstName_CSS entered value as : Denise
+INFO    2022-01-14 18:13:01,344 [main] base.TestBase  - Typing in an Element : lastName_CSS entered value as : Bumbacea
+INFO    2022-01-14 18:13:01,434 [main] base.TestBase  - Typing in an Element : postCode_CSS entered value as : dsfsdf
+INFO    2022-01-14 18:13:01,491 [main] base.TestBase  - Clicking on an Element : addbtn_CSS
+INFO    2022-01-14 18:13:01,576 [main] base.TestBase  - Clicking on an Element : addCustbtn_CSS
+INFO    2022-01-14 18:13:01,625 [main] base.TestBase  - Typing in an Element : firstName_CSS entered value as : Iulia
+INFO    2022-01-14 18:13:01,687 [main] base.TestBase  - Typing in an Element : lastName_CSS entered value as : Popescu
+INFO    2022-01-14 18:13:01,736 [main] base.TestBase  - Typing in an Element : postCode_CSS entered value as : fdsf
+INFO    2022-01-14 18:13:01,774 [main] base.TestBase  - Clicking on an Element : addbtn_CSS
+INFO    2022-01-14 18:13:01,839 [main] base.TestBase  - Clicking on an Element : addCustbtn_CSS
+INFO    2022-01-14 18:13:01,889 [main] base.TestBase  - Typing in an Element : firstName_CSS entered value as : Andrei
+INFO    2022-01-14 18:13:01,945 [main] base.TestBase  - Typing in an Element : lastName_CSS entered value as : Ionescu
+INFO    2022-01-14 18:13:02,006 [main] base.TestBase  - Typing in an Element : postCode_CSS entered value as : fdasda
+INFO    2022-01-14 18:13:02,042 [main] base.TestBase  - Clicking on an Element : addbtn_CSS
+INFO    2022-01-14 18:13:02,490 [main] base.TestBase  - Execution completed
+INFO    2022-01-14 18:16:14,597 [main] base.TestBase  - Config file loaded!
+INFO    2022-01-14 18:16:14,598 [main] base.TestBase  - Config file loaded!
+INFO    2022-01-14 18:16:14,876 [main] io.github.bonigarcia.wdm.WebDriverManager  - Using chromedriver 97.0.4692.71 (resolved driver for Chrome 97)
+INFO    2022-01-14 18:16:14,904 [main] io.github.bonigarcia.wdm.WebDriverManager  - Exporting webdriver.chrome.driver as C:\Users\denni\.cache\selenium\chromedriver\win32\97.0.4692.71\chromedriver.exe
+INFO    2022-01-14 18:16:16,839 [main] base.TestBase  - Chrome launched
+INFO    2022-01-14 18:16:17,897 [main] base.TestBase  - Navigated to https://www.way2automation.com/angularjs-protractor/banking/#/login
+INFO    2022-01-14 18:16:18,086 [main] base.TestBase  - Inside Login test
+INFO    2022-01-14 18:16:18,223 [main] base.TestBase  - Clicking on an Element : bmlBtn_CSS
+INFO    2022-01-14 18:16:21,245 [main] base.TestBase  - Login successfully executed
+INFO    2022-01-14 18:17:31,278 [main] base.TestBase  - Config file loaded!
+INFO    2022-01-14 18:17:31,280 [main] base.TestBase  - Config file loaded!
+INFO    2022-01-14 18:17:31,569 [main] io.github.bonigarcia.wdm.WebDriverManager  - Using chromedriver 97.0.4692.71 (resolved driver for Chrome 97)
+INFO    2022-01-14 18:17:31,588 [main] io.github.bonigarcia.wdm.WebDriverManager  - Exporting webdriver.chrome.driver as C:\Users\denni\.cache\selenium\chromedriver\win32\97.0.4692.71\chromedriver.exe
+INFO    2022-01-14 18:17:33,512 [main] base.TestBase  - Chrome launched
+INFO    2022-01-14 18:17:34,508 [main] base.TestBase  - Navigated to https://www.way2automation.com/angularjs-protractor/banking/#/login
+INFO    2022-01-14 18:17:34,695 [main] base.TestBase  - Inside Login test
+INFO    2022-01-14 18:17:35,162 [main] base.TestBase  - Clicking on an Element : bmlBtn_CSS
+INFO    2022-01-14 18:17:38,184 [main] base.TestBase  - Login successfully executed
+INFO    2022-01-14 18:17:38,667 [main] base.TestBase  - Clicking on an Element : addCustbtn_CSS
+INFO    2022-01-14 18:17:39,007 [main] base.TestBase  - Typing in an Element : firstName_CSS entered value as : Denise
+INFO    2022-01-14 18:17:39,084 [main] base.TestBase  - Typing in an Element : lastName_CSS entered value as : Bumbacea
+INFO    2022-01-14 18:17:39,153 [main] base.TestBase  - Typing in an Element : postCode_CSS entered value as : dsfsdf
+INFO    2022-01-14 18:17:39,218 [main] base.TestBase  - Clicking on an Element : addbtn_CSS
+INFO    2022-01-14 18:17:39,295 [main] base.TestBase  - Clicking on an Element : addCustbtn_CSS
+INFO    2022-01-14 18:17:39,349 [main] base.TestBase  - Typing in an Element : firstName_CSS entered value as : Iulia
+INFO    2022-01-14 18:17:39,413 [main] base.TestBase  - Typing in an Element : lastName_CSS entered value as : Popescu
+INFO    2022-01-14 18:17:39,462 [main] base.TestBase  - Typing in an Element : postCode_CSS entered value as : fdsf
+INFO    2022-01-14 18:17:39,499 [main] base.TestBase  - Clicking on an Element : addbtn_CSS
+INFO    2022-01-14 18:17:39,578 [main] base.TestBase  - Clicking on an Element : addCustbtn_CSS
+INFO    2022-01-14 18:17:39,630 [main] base.TestBase  - Typing in an Element : firstName_CSS entered value as : Andrei
+INFO    2022-01-14 18:17:39,684 [main] base.TestBase  - Typing in an Element : lastName_CSS entered value as : Ionescu
+INFO    2022-01-14 18:17:39,745 [main] base.TestBase  - Typing in an Element : postCode_CSS entered value as : fdasda
+INFO    2022-01-14 18:17:39,780 [main] base.TestBase  - Clicking on an Element : addbtn_CSS
+INFO    2022-01-14 18:17:40,179 [main] base.TestBase  - Execution completed
+INFO    2022-01-14 18:18:25,673 [main] base.TestBase  - Config file loaded!
+INFO    2022-01-14 18:18:25,674 [main] base.TestBase  - Config file loaded!
+INFO    2022-01-14 18:18:25,961 [main] io.github.bonigarcia.wdm.WebDriverManager  - Using chromedriver 97.0.4692.71 (resolved driver for Chrome 97)
+INFO    2022-01-14 18:18:25,983 [main] io.github.bonigarcia.wdm.WebDriverManager  - Exporting webdriver.chrome.driver as C:\Users\denni\.cache\selenium\chromedriver\win32\97.0.4692.71\chromedriver.exe
+INFO    2022-01-14 18:18:27,850 [main] base.TestBase  - Chrome launched
+INFO    2022-01-14 18:18:29,549 [main] base.TestBase  - Navigated to https://www.way2automation.com/angularjs-protractor/banking/#/login
+INFO    2022-01-14 18:18:29,726 [main] base.TestBase  - Inside Login test
+INFO    2022-01-14 18:18:30,095 [main] base.TestBase  - Clicking on an Element : bmlBtn_CSS
+INFO    2022-01-14 18:18:33,126 [main] base.TestBase  - Login successfully executed
+INFO    2022-01-14 18:18:33,638 [main] base.TestBase  - Clicking on an Element : addCustbtn_CSS
+INFO    2022-01-14 18:18:33,907 [main] base.TestBase  - Typing in an Element : firstName_CSS entered value as : Denise
+INFO    2022-01-14 18:18:33,982 [main] base.TestBase  - Typing in an Element : lastName_CSS entered value as : Bumbacea
+INFO    2022-01-14 18:18:34,069 [main] base.TestBase  - Typing in an Element : postCode_CSS entered value as : dsfsdf
+INFO    2022-01-14 18:18:34,124 [main] base.TestBase  - Clicking on an Element : addbtn_CSS
+INFO    2022-01-14 18:18:34,213 [main] base.TestBase  - Clicking on an Element : addCustbtn_CSS
+INFO    2022-01-14 18:18:34,266 [main] base.TestBase  - Typing in an Element : firstName_CSS entered value as : Iulia
+INFO    2022-01-14 18:18:34,330 [main] base.TestBase  - Typing in an Element : lastName_CSS entered value as : Popescu
+INFO    2022-01-14 18:18:34,382 [main] base.TestBase  - Typing in an Element : postCode_CSS entered value as : fdsf
+INFO    2022-01-14 18:18:34,419 [main] base.TestBase  - Clicking on an Element : addbtn_CSS
+INFO    2022-01-14 18:18:34,481 [main] base.TestBase  - Clicking on an Element : addCustbtn_CSS
+INFO    2022-01-14 18:18:34,530 [main] base.TestBase  - Typing in an Element : firstName_CSS entered value as : Andrei
+INFO    2022-01-14 18:18:34,586 [main] base.TestBase  - Typing in an Element : lastName_CSS entered value as : Ionescu
+INFO    2022-01-14 18:18:34,646 [main] base.TestBase  - Typing in an Element : postCode_CSS entered value as : fdasda
+INFO    2022-01-14 18:18:34,685 [main] base.TestBase  - Clicking on an Element : addbtn_CSS
+INFO    2022-01-14 18:18:35,084 [main] base.TestBase  - Execution completed
+INFO    2022-01-14 18:20:26,466 [main] base.TestBase  - Config file loaded!
+INFO    2022-01-14 18:20:26,472 [main] base.TestBase  - Config file loaded!
+INFO    2022-01-14 18:20:26,907 [main] io.github.bonigarcia.wdm.WebDriverManager  - Using chromedriver 97.0.4692.71 (resolved driver for Chrome 97)
+INFO    2022-01-14 18:20:26,934 [main] io.github.bonigarcia.wdm.WebDriverManager  - Exporting webdriver.chrome.driver as C:\Users\denni\.cache\selenium\chromedriver\win32\97.0.4692.71\chromedriver.exe
+INFO    2022-01-14 18:20:29,168 [main] base.TestBase  - Chrome launched
+INFO    2022-01-14 18:20:30,123 [main] base.TestBase  - Navigated to https://www.way2automation.com/angularjs-protractor/banking/#/login
+INFO    2022-01-14 18:20:30,299 [main] base.TestBase  - Inside Login test
+INFO    2022-01-14 18:20:30,718 [main] base.TestBase  - Clicking on an Element : bmlBtn_CSS
+INFO    2022-01-14 18:20:33,754 [main] base.TestBase  - Login successfully executed
+INFO    2022-01-14 18:20:34,268 [main] base.TestBase  - Clicking on an Element : addCustbtn_CSS
+INFO    2022-01-14 18:20:34,535 [main] base.TestBase  - Typing in an Element : firstName_CSS entered value as : Denise
+INFO    2022-01-14 18:20:34,613 [main] base.TestBase  - Typing in an Element : lastName_CSS entered value as : Bumbacea
+INFO    2022-01-14 18:20:34,688 [main] base.TestBase  - Typing in an Element : postCode_CSS entered value as : dsfsdf
+INFO    2022-01-14 18:20:34,741 [main] base.TestBase  - Clicking on an Element : addbtn_CSS
+INFO    2022-01-14 18:20:34,798 [main] base.TestBase  - Clicking on an Element : addCustbtn_CSS
+INFO    2022-01-14 18:20:34,851 [main] base.TestBase  - Typing in an Element : firstName_CSS entered value as : Iulia
+INFO    2022-01-14 18:20:34,899 [main] base.TestBase  - Typing in an Element : lastName_CSS entered value as : Popescu
+INFO    2022-01-14 18:20:34,946 [main] base.TestBase  - Typing in an Element : postCode_CSS entered value as : fdsf
+INFO    2022-01-14 18:20:34,979 [main] base.TestBase  - Clicking on an Element : addbtn_CSS
+INFO    2022-01-14 18:20:35,037 [main] base.TestBase  - Clicking on an Element : addCustbtn_CSS
+INFO    2022-01-14 18:20:35,084 [main] base.TestBase  - Typing in an Element : firstName_CSS entered value as : Andrei
+INFO    2022-01-14 18:20:35,129 [main] base.TestBase  - Typing in an Element : lastName_CSS entered value as : Ionescu
+INFO    2022-01-14 18:20:35,172 [main] base.TestBase  - Typing in an Element : postCode_CSS entered value as : fdasda
+INFO    2022-01-14 18:20:35,207 [main] base.TestBase  - Clicking on an Element : addbtn_CSS
+INFO    2022-01-14 18:20:35,594 [main] base.TestBase  - Execution completed
+INFO    2022-01-14 18:20:54,297 [main] base.TestBase  - Config file loaded!
+INFO    2022-01-14 18:20:54,298 [main] base.TestBase  - Config file loaded!
+INFO    2022-01-14 18:20:54,593 [main] io.github.bonigarcia.wdm.WebDriverManager  - Using chromedriver 97.0.4692.71 (resolved driver for Chrome 97)
+INFO    2022-01-14 18:20:54,620 [main] io.github.bonigarcia.wdm.WebDriverManager  - Exporting webdriver.chrome.driver as C:\Users\denni\.cache\selenium\chromedriver\win32\97.0.4692.71\chromedriver.exe
+INFO    2022-01-14 18:20:56,519 [main] base.TestBase  - Chrome launched
+INFO    2022-01-14 18:20:57,656 [main] base.TestBase  - Navigated to https://www.way2automation.com/angularjs-protractor/banking/#/login
+INFO    2022-01-14 18:20:57,845 [main] base.TestBase  - Inside Login test
+INFO    2022-01-14 18:20:58,119 [main] base.TestBase  - Clicking on an Element : bmlBtn_CSS
+INFO    2022-01-14 18:21:01,157 [main] base.TestBase  - Login successfully executed
+INFO    2022-01-14 18:21:01,682 [main] base.TestBase  - Clicking on an Element : addCustbtn_CSS
+INFO    2022-01-14 18:21:01,960 [main] base.TestBase  - Typing in an Element : firstName_CSS entered value as : Denise
+INFO    2022-01-14 18:21:02,042 [main] base.TestBase  - Typing in an Element : lastName_CSS entered value as : Bumbacea
+INFO    2022-01-14 18:21:02,115 [main] base.TestBase  - Typing in an Element : postCode_CSS entered value as : dsfsdf
+INFO    2022-01-14 18:21:02,167 [main] base.TestBase  - Clicking on an Element : addbtn_CSS
+INFO    2022-01-14 18:21:02,256 [main] base.TestBase  - Clicking on an Element : addCustbtn_CSS
+INFO    2022-01-14 18:21:02,303 [main] base.TestBase  - Typing in an Element : firstName_CSS entered value as : Iulia
+INFO    2022-01-14 18:21:02,357 [main] base.TestBase  - Typing in an Element : lastName_CSS entered value as : Popescu
+INFO    2022-01-14 18:21:02,410 [main] base.TestBase  - Typing in an Element : postCode_CSS entered value as : fdsf
+INFO    2022-01-14 18:21:02,446 [main] base.TestBase  - Clicking on an Element : addbtn_CSS
+INFO    2022-01-14 18:21:02,526 [main] base.TestBase  - Clicking on an Element : addCustbtn_CSS
+INFO    2022-01-14 18:21:02,580 [main] base.TestBase  - Typing in an Element : firstName_CSS entered value as : Andrei
+INFO    2022-01-14 18:21:02,631 [main] base.TestBase  - Typing in an Element : lastName_CSS entered value as : Ionescu
+INFO    2022-01-14 18:21:02,687 [main] base.TestBase  - Typing in an Element : postCode_CSS entered value as : fdasda
+INFO    2022-01-14 18:21:02,724 [main] base.TestBase  - Clicking on an Element : addbtn_CSS
+INFO    2022-01-14 18:21:03,107 [main] base.TestBase  - Execution completed
+INFO    2022-01-14 18:30:07,015 [main] base.TestBase  - Config file loaded!
+INFO    2022-01-14 18:30:07,016 [main] base.TestBase  - Config file loaded!
+INFO    2022-01-14 18:30:07,308 [main] io.github.bonigarcia.wdm.WebDriverManager  - Using chromedriver 97.0.4692.71 (resolved driver for Chrome 97)
+INFO    2022-01-14 18:30:07,327 [main] io.github.bonigarcia.wdm.WebDriverManager  - Exporting webdriver.chrome.driver as C:\Users\denni\.cache\selenium\chromedriver\win32\97.0.4692.71\chromedriver.exe
+INFO    2022-01-14 18:30:09,261 [main] base.TestBase  - Chrome launched
+INFO    2022-01-14 18:30:10,536 [main] base.TestBase  - Navigated to https://www.way2automation.com/angularjs-protractor/banking/#/login
+INFO    2022-01-14 18:30:10,706 [main] base.TestBase  - Inside Login test
+INFO    2022-01-14 18:30:10,895 [main] base.TestBase  - Clicking on an Element : bmlBtn_CSS
+INFO    2022-01-14 18:30:13,929 [main] base.TestBase  - Login successfully executed
+INFO    2022-01-14 18:30:14,397 [main] base.TestBase  - Clicking on an Element : addCustbtn_CSS
+INFO    2022-01-14 18:30:14,664 [main] base.TestBase  - Typing in an Element : firstName_CSS entered value as : Denise
+INFO    2022-01-14 18:30:14,739 [main] base.TestBase  - Typing in an Element : lastName_CSS entered value as : Bumbacea
+INFO    2022-01-14 18:30:14,813 [main] base.TestBase  - Typing in an Element : postCode_CSS entered value as : dsfsdf
+INFO    2022-01-14 18:30:14,867 [main] base.TestBase  - Clicking on an Element : addbtn_CSS
+INFO    2022-01-14 18:30:14,965 [main] base.TestBase  - Clicking on an Element : addCustbtn_CSS
+INFO    2022-01-14 18:30:15,012 [main] base.TestBase  - Typing in an Element : firstName_CSS entered value as : Iulia
+INFO    2022-01-14 18:30:15,072 [main] base.TestBase  - Typing in an Element : lastName_CSS entered value as : Popescu
+INFO    2022-01-14 18:30:15,122 [main] base.TestBase  - Typing in an Element : postCode_CSS entered value as : fdsf
+INFO    2022-01-14 18:30:15,158 [main] base.TestBase  - Clicking on an Element : addbtn_CSS
+INFO    2022-01-14 18:30:15,247 [main] base.TestBase  - Clicking on an Element : addCustbtn_CSS
+INFO    2022-01-14 18:30:15,300 [main] base.TestBase  - Typing in an Element : firstName_CSS entered value as : Andrei
+INFO    2022-01-14 18:30:15,353 [main] base.TestBase  - Typing in an Element : lastName_CSS entered value as : Ionescu
+INFO    2022-01-14 18:30:15,407 [main] base.TestBase  - Typing in an Element : postCode_CSS entered value as : fdasda
+INFO    2022-01-14 18:30:15,442 [main] base.TestBase  - Clicking on an Element : addbtn_CSS
+INFO    2022-01-14 18:30:15,833 [main] base.TestBase  - Execution completed
+INFO    2022-01-14 18:37:53,951 [main] base.TestBase  - Config file loaded!
+INFO    2022-01-14 18:37:53,952 [main] base.TestBase  - Config file loaded!
+INFO    2022-01-14 18:37:54,242 [main] io.github.bonigarcia.wdm.WebDriverManager  - Using chromedriver 97.0.4692.71 (resolved driver for Chrome 97)
+INFO    2022-01-14 18:37:54,260 [main] io.github.bonigarcia.wdm.WebDriverManager  - Exporting webdriver.chrome.driver as C:\Users\denni\.cache\selenium\chromedriver\win32\97.0.4692.71\chromedriver.exe
+INFO    2022-01-14 18:37:56,279 [main] base.TestBase  - Chrome launched
+INFO    2022-01-14 18:37:57,718 [main] base.TestBase  - Navigated to https://www.way2automation.com/angularjs-protractor/banking/#/login
+INFO    2022-01-14 18:37:57,897 [main] base.TestBase  - Inside Login test
+INFO    2022-01-14 18:37:58,152 [main] base.TestBase  - Clicking on an Element : bmlBtn_CSS
+INFO    2022-01-14 18:38:01,176 [main] base.TestBase  - Login successfully executed
+INFO    2022-01-14 18:38:01,677 [main] base.TestBase  - Clicking on an Element : addCustbtn_CSS
+INFO    2022-01-14 18:38:02,008 [main] base.TestBase  - Typing in an Element : firstName_CSS entered value as : Denise
+INFO    2022-01-14 18:38:02,081 [main] base.TestBase  - Typing in an Element : lastName_CSS entered value as : Bumbacea
+INFO    2022-01-14 18:38:02,150 [main] base.TestBase  - Typing in an Element : postCode_CSS entered value as : dsfsdf
+INFO    2022-01-14 18:38:02,211 [main] base.TestBase  - Clicking on an Element : addbtn_CSS
+INFO    2022-01-14 18:38:02,292 [main] base.TestBase  - Clicking on an Element : addCustbtn_CSS
+INFO    2022-01-14 18:38:02,339 [main] base.TestBase  - Typing in an Element : firstName_CSS entered value as : Iulia
+INFO    2022-01-14 18:38:02,392 [main] base.TestBase  - Typing in an Element : lastName_CSS entered value as : Popescu
+INFO    2022-01-14 18:38:02,447 [main] base.TestBase  - Typing in an Element : postCode_CSS entered value as : fdsf
+INFO    2022-01-14 18:38:02,485 [main] base.TestBase  - Clicking on an Element : addbtn_CSS
+INFO    2022-01-14 18:38:02,560 [main] base.TestBase  - Clicking on an Element : addCustbtn_CSS
+INFO    2022-01-14 18:38:02,610 [main] base.TestBase  - Typing in an Element : firstName_CSS entered value as : Andrei
+INFO    2022-01-14 18:38:02,660 [main] base.TestBase  - Typing in an Element : lastName_CSS entered value as : Ionescu
+INFO    2022-01-14 18:38:02,709 [main] base.TestBase  - Typing in an Element : postCode_CSS entered value as : fdasda
+INFO    2022-01-14 18:38:02,742 [main] base.TestBase  - Clicking on an Element : addbtn_CSS
+INFO    2022-01-14 18:38:03,147 [main] base.TestBase  - Execution completed
+INFO    2022-01-14 18:41:56,085 [main] base.TestBase  - Config file loaded!
+INFO    2022-01-14 18:41:56,086 [main] base.TestBase  - Config file loaded!
+INFO    2022-01-14 18:41:56,375 [main] io.github.bonigarcia.wdm.WebDriverManager  - Using chromedriver 97.0.4692.71 (resolved driver for Chrome 97)
+INFO    2022-01-14 18:41:56,394 [main] io.github.bonigarcia.wdm.WebDriverManager  - Exporting webdriver.chrome.driver as C:\Users\denni\.cache\selenium\chromedriver\win32\97.0.4692.71\chromedriver.exe
+INFO    2022-01-14 18:41:58,288 [main] base.TestBase  - Chrome launched
+INFO    2022-01-14 18:41:59,313 [main] base.TestBase  - Navigated to https://www.way2automation.com/angularjs-protractor/banking/#/login
+INFO    2022-01-14 18:41:59,501 [main] base.TestBase  - Inside Login test
+INFO    2022-01-14 18:41:59,689 [main] base.TestBase  - Clicking on an Element : bmlBtn_CSS
+INFO    2022-01-14 18:42:02,717 [main] base.TestBase  - Login successfully executed
+INFO    2022-01-14 18:42:03,181 [main] base.TestBase  - Clicking on an Element : addCustbtn_CSS
+INFO    2022-01-14 18:42:03,446 [main] base.TestBase  - Typing in an Element : firstName_CSS entered value as : Denise
+INFO    2022-01-14 18:42:03,514 [main] base.TestBase  - Typing in an Element : lastName_CSS entered value as : Bumbacea
+INFO    2022-01-14 18:42:03,580 [main] base.TestBase  - Typing in an Element : postCode_CSS entered value as : dsfsdf
+INFO    2022-01-14 18:42:03,634 [main] base.TestBase  - Clicking on an Element : addbtn_CSS
+INFO    2022-01-14 18:42:03,717 [main] base.TestBase  - Clicking on an Element : addCustbtn_CSS
+INFO    2022-01-14 18:42:03,767 [main] base.TestBase  - Typing in an Element : firstName_CSS entered value as : Iulia
+INFO    2022-01-14 18:42:03,820 [main] base.TestBase  - Typing in an Element : lastName_CSS entered value as : Popescu
+INFO    2022-01-14 18:42:03,871 [main] base.TestBase  - Typing in an Element : postCode_CSS entered value as : fdsf
+INFO    2022-01-14 18:42:03,910 [main] base.TestBase  - Clicking on an Element : addbtn_CSS
+INFO    2022-01-14 18:42:03,974 [main] base.TestBase  - Clicking on an Element : addCustbtn_CSS
+INFO    2022-01-14 18:42:04,022 [main] base.TestBase  - Typing in an Element : firstName_CSS entered value as : Andrei
+INFO    2022-01-14 18:42:04,081 [main] base.TestBase  - Typing in an Element : lastName_CSS entered value as : Ionescu
+INFO    2022-01-14 18:42:04,131 [main] base.TestBase  - Typing in an Element : postCode_CSS entered value as : fdasda
+INFO    2022-01-14 18:42:04,169 [main] base.TestBase  - Clicking on an Element : addbtn_CSS
+INFO    2022-01-14 18:42:04,580 [main] base.TestBase  - Execution completed
+INFO    2022-01-14 18:43:43,578 [main] base.TestBase  - Config file loaded!
+INFO    2022-01-14 18:43:43,580 [main] base.TestBase  - Config file loaded!
+INFO    2022-01-14 18:43:43,862 [main] io.github.bonigarcia.wdm.WebDriverManager  - Using chromedriver 97.0.4692.71 (resolved driver for Chrome 97)
+INFO    2022-01-14 18:43:43,889 [main] io.github.bonigarcia.wdm.WebDriverManager  - Exporting webdriver.chrome.driver as C:\Users\denni\.cache\selenium\chromedriver\win32\97.0.4692.71\chromedriver.exe
+INFO    2022-01-14 18:43:45,803 [main] base.TestBase  - Chrome launched
+INFO    2022-01-14 18:43:46,829 [main] base.TestBase  - Navigated to https://www.way2automation.com/angularjs-protractor/banking/#/login
+INFO    2022-01-14 18:43:47,011 [main] base.TestBase  - Inside Login test
+INFO    2022-01-14 18:43:47,198 [main] base.TestBase  - Clicking on an Element : bmlBtn_CSS
+INFO    2022-01-14 18:43:50,226 [main] base.TestBase  - Login successfully executed
+INFO    2022-01-14 18:43:50,722 [main] base.TestBase  - Clicking on an Element : addCustbtn_CSS
+INFO    2022-01-14 18:43:51,044 [main] base.TestBase  - Typing in an Element : firstName_CSS entered value as : Denise
+INFO    2022-01-14 18:43:51,113 [main] base.TestBase  - Typing in an Element : lastName_CSS entered value as : Bumbacea
+INFO    2022-01-14 18:43:51,173 [main] base.TestBase  - Typing in an Element : postCode_CSS entered value as : dsfsdf
+INFO    2022-01-14 18:43:51,226 [main] base.TestBase  - Clicking on an Element : addbtn_CSS
+INFO    2022-01-14 18:43:51,302 [main] base.TestBase  - Clicking on an Element : addCustbtn_CSS
+INFO    2022-01-14 18:43:51,353 [main] base.TestBase  - Typing in an Element : firstName_CSS entered value as : Iulia
+INFO    2022-01-14 18:43:51,402 [main] base.TestBase  - Typing in an Element : lastName_CSS entered value as : Popescu
+INFO    2022-01-14 18:43:51,486 [main] base.TestBase  - Typing in an Element : postCode_CSS entered value as : fdsf
+INFO    2022-01-14 18:43:51,529 [main] base.TestBase  - Clicking on an Element : addbtn_CSS
+INFO    2022-01-14 18:43:51,602 [main] base.TestBase  - Clicking on an Element : addCustbtn_CSS
+INFO    2022-01-14 18:43:51,662 [main] base.TestBase  - Typing in an Element : firstName_CSS entered value as : Andrei
+INFO    2022-01-14 18:43:51,713 [main] base.TestBase  - Typing in an Element : lastName_CSS entered value as : Ionescu
+INFO    2022-01-14 18:43:51,765 [main] base.TestBase  - Typing in an Element : postCode_CSS entered value as : fdasda
+INFO    2022-01-14 18:43:51,801 [main] base.TestBase  - Clicking on an Element : addbtn_CSS
+INFO    2022-01-14 18:43:52,195 [main] base.TestBase  - Execution completed
+INFO    2022-01-14 18:48:30,787 [main] base.TestBase  - Config file loaded!
+INFO    2022-01-14 18:48:30,789 [main] base.TestBase  - Config file loaded!
+INFO    2022-01-14 18:48:31,075 [main] io.github.bonigarcia.wdm.WebDriverManager  - Using chromedriver 97.0.4692.71 (resolved driver for Chrome 97)
+INFO    2022-01-14 18:48:31,097 [main] io.github.bonigarcia.wdm.WebDriverManager  - Exporting webdriver.chrome.driver as C:\Users\denni\.cache\selenium\chromedriver\win32\97.0.4692.71\chromedriver.exe
+INFO    2022-01-14 18:48:33,064 [main] base.TestBase  - Chrome launched
+INFO    2022-01-14 18:48:34,352 [main] base.TestBase  - Navigated to https://www.way2automation.com/angularjs-protractor/banking/#/login
+INFO    2022-01-14 18:48:34,568 [main] base.TestBase  - Inside Login test
+INFO    2022-01-14 18:48:34,621 [main] base.TestBase  - Clicking on an Element : bmlBtn_CSS
+INFO    2022-01-14 18:48:37,644 [main] base.TestBase  - Login successfully executed
+INFO    2022-01-14 18:48:38,131 [main] base.TestBase  - Clicking on an Element : addCustbtn_CSS
+INFO    2022-01-14 18:48:38,399 [main] base.TestBase  - Typing in an Element : firstName_CSS entered value as : Denise
+INFO    2022-01-14 18:48:38,477 [main] base.TestBase  - Typing in an Element : lastName_CSS entered value as : Bumbacea
+INFO    2022-01-14 18:48:38,549 [main] base.TestBase  - Typing in an Element : postCode_CSS entered value as : dsfsdf
+INFO    2022-01-14 18:48:38,598 [main] base.TestBase  - Clicking on an Element : addbtn_CSS
+INFO    2022-01-14 18:48:38,695 [main] base.TestBase  - Clicking on an Element : addCustbtn_CSS
+INFO    2022-01-14 18:48:38,745 [main] base.TestBase  - Typing in an Element : firstName_CSS entered value as : Iulia
+INFO    2022-01-14 18:48:38,805 [main] base.TestBase  - Typing in an Element : lastName_CSS entered value as : Popescu
+INFO    2022-01-14 18:48:38,859 [main] base.TestBase  - Typing in an Element : postCode_CSS entered value as : fdsf
+INFO    2022-01-14 18:48:38,893 [main] base.TestBase  - Clicking on an Element : addbtn_CSS
+INFO    2022-01-14 18:48:38,968 [main] base.TestBase  - Clicking on an Element : addCustbtn_CSS
+INFO    2022-01-14 18:48:39,020 [main] base.TestBase  - Typing in an Element : firstName_CSS entered value as : Andrei
+INFO    2022-01-14 18:48:39,075 [main] base.TestBase  - Typing in an Element : lastName_CSS entered value as : Ionescu
+INFO    2022-01-14 18:48:39,126 [main] base.TestBase  - Typing in an Element : postCode_CSS entered value as : fdasda
+INFO    2022-01-14 18:48:39,162 [main] base.TestBase  - Clicking on an Element : addbtn_CSS
+INFO    2022-01-14 18:48:39,575 [main] base.TestBase  - Execution completed
+INFO    2022-01-14 18:50:02,914 [main] base.TestBase  - Config file loaded!
+INFO    2022-01-14 18:50:02,915 [main] base.TestBase  - Config file loaded!
+INFO    2022-01-14 18:50:03,201 [main] io.github.bonigarcia.wdm.WebDriverManager  - Using chromedriver 97.0.4692.71 (resolved driver for Chrome 97)
+INFO    2022-01-14 18:50:03,219 [main] io.github.bonigarcia.wdm.WebDriverManager  - Exporting webdriver.chrome.driver as C:\Users\denni\.cache\selenium\chromedriver\win32\97.0.4692.71\chromedriver.exe
+INFO    2022-01-14 18:50:05,092 [main] base.TestBase  - Chrome launched
+INFO    2022-01-14 18:50:06,168 [main] base.TestBase  - Navigated to https://www.way2automation.com/angularjs-protractor/banking/#/login
+INFO    2022-01-14 18:50:06,354 [main] base.TestBase  - Inside Login test
+INFO    2022-01-14 18:50:06,470 [main] base.TestBase  - Clicking on an Element : bmlBtn_CSS
+INFO    2022-01-14 18:50:09,498 [main] base.TestBase  - Login successfully executed
+INFO    2022-01-14 18:50:09,980 [main] base.TestBase  - Clicking on an Element : addCustbtn_CSS
+INFO    2022-01-14 18:50:10,303 [main] base.TestBase  - Typing in an Element : firstName_CSS entered value as : Denise
+INFO    2022-01-14 18:50:10,375 [main] base.TestBase  - Typing in an Element : lastName_CSS entered value as : Bumbacea
+INFO    2022-01-14 18:50:10,437 [main] base.TestBase  - Typing in an Element : postCode_CSS entered value as : dsfsdf
+INFO    2022-01-14 18:50:10,487 [main] base.TestBase  - Clicking on an Element : addbtn_CSS
+INFO    2022-01-14 18:50:10,569 [main] base.TestBase  - Clicking on an Element : addCustbtn_CSS
+INFO    2022-01-14 18:50:10,619 [main] base.TestBase  - Typing in an Element : firstName_CSS entered value as : Iulia
+INFO    2022-01-14 18:50:10,668 [main] base.TestBase  - Typing in an Element : lastName_CSS entered value as : Popescu
+INFO    2022-01-14 18:50:10,718 [main] base.TestBase  - Typing in an Element : postCode_CSS entered value as : fdsf
+INFO    2022-01-14 18:50:10,756 [main] base.TestBase  - Clicking on an Element : addbtn_CSS
+INFO    2022-01-14 18:50:10,841 [main] base.TestBase  - Clicking on an Element : addCustbtn_CSS
+INFO    2022-01-14 18:50:10,922 [main] base.TestBase  - Typing in an Element : firstName_CSS entered value as : Andrei
+INFO    2022-01-14 18:50:10,970 [main] base.TestBase  - Typing in an Element : lastName_CSS entered value as : Ionescu
+INFO    2022-01-14 18:50:11,022 [main] base.TestBase  - Typing in an Element : postCode_CSS entered value as : fdasda
+INFO    2022-01-14 18:50:11,060 [main] base.TestBase  - Clicking on an Element : addbtn_CSS
+INFO    2022-01-14 18:50:11,464 [main] base.TestBase  - Execution completed
+INFO    2022-01-14 18:55:24,150 [main] base.TestBase  - Config file loaded!
+INFO    2022-01-14 18:55:24,151 [main] base.TestBase  - Config file loaded!
+INFO    2022-01-14 18:55:24,434 [main] io.github.bonigarcia.wdm.WebDriverManager  - Using chromedriver 97.0.4692.71 (resolved driver for Chrome 97)
+INFO    2022-01-14 18:55:24,453 [main] io.github.bonigarcia.wdm.WebDriverManager  - Exporting webdriver.chrome.driver as C:\Users\denni\.cache\selenium\chromedriver\win32\97.0.4692.71\chromedriver.exe
+INFO    2022-01-14 18:55:26,437 [main] base.TestBase  - Chrome launched
+INFO    2022-01-14 18:55:27,687 [main] base.TestBase  - Navigated to https://www.way2automation.com/angularjs-protractor/banking/#/login
+INFO    2022-01-14 18:55:27,887 [main] base.TestBase  - Inside Login test
+INFO    2022-01-14 18:55:27,962 [main] base.TestBase  - Clicking on an Element : bmlBtn_CSS
+INFO    2022-01-14 18:55:30,994 [main] base.TestBase  - Login successfully executed
+INFO    2022-01-14 18:55:43,025 [main] base.TestBase  - Clicking on an Element : addCustbtn_CSS
+INFO    2022-01-14 18:55:43,629 [main] base.TestBase  - Typing in an Element : firstName_CSS entered value as : Denise
+INFO    2022-01-14 18:55:43,703 [main] base.TestBase  - Typing in an Element : lastName_CSS entered value as : Bumbacea
+INFO    2022-01-14 18:55:43,764 [main] base.TestBase  - Typing in an Element : postCode_CSS entered value as : dsfsdf
+INFO    2022-01-14 18:55:43,814 [main] base.TestBase  - Clicking on an Element : addbtn_CSS
+INFO    2022-01-14 18:55:43,918 [main] base.TestBase  - Clicking on an Element : addCustbtn_CSS
+INFO    2022-01-14 18:55:43,968 [main] base.TestBase  - Typing in an Element : firstName_CSS entered value as : Iulia
+INFO    2022-01-14 18:55:44,021 [main] base.TestBase  - Typing in an Element : lastName_CSS entered value as : Popescu
+INFO    2022-01-14 18:55:44,073 [main] base.TestBase  - Typing in an Element : postCode_CSS entered value as : fdsf
+INFO    2022-01-14 18:55:44,105 [main] base.TestBase  - Clicking on an Element : addbtn_CSS
+INFO    2022-01-14 18:55:44,156 [main] base.TestBase  - Clicking on an Element : addCustbtn_CSS
+INFO    2022-01-14 18:55:44,208 [main] base.TestBase  - Typing in an Element : firstName_CSS entered value as : Andrei
+INFO    2022-01-14 18:55:44,254 [main] base.TestBase  - Typing in an Element : lastName_CSS entered value as : Ionescu
+INFO    2022-01-14 18:55:44,299 [main] base.TestBase  - Typing in an Element : postCode_CSS entered value as : fdasda
+INFO    2022-01-14 18:55:44,331 [main] base.TestBase  - Clicking on an Element : addbtn_CSS
+INFO    2022-01-14 18:56:06,662 [main] base.TestBase  - Execution completed
+INFO    2022-01-14 19:14:56,851 [main] base.TestBase  - Config file loaded!
+INFO    2022-01-14 19:14:56,852 [main] base.TestBase  - Config file loaded!
+INFO    2022-01-14 19:14:57,832 [main] io.github.bonigarcia.wdm.WebDriverManager  - Using chromedriver 97.0.4692.71 (resolved driver for Chrome 97)
+INFO    2022-01-14 19:14:57,853 [main] io.github.bonigarcia.wdm.WebDriverManager  - Exporting webdriver.chrome.driver as C:\Users\denni\.cache\selenium\chromedriver\win32\97.0.4692.71\chromedriver.exe
+INFO    2022-01-14 19:14:59,991 [main] base.TestBase  - Chrome launched
+INFO    2022-01-14 19:15:01,344 [main] base.TestBase  - Navigated to https://www.way2automation.com/angularjs-protractor/banking/#/login
+INFO    2022-01-14 19:15:01,577 [main] base.TestBase  - Inside Login test
+INFO    2022-01-14 19:15:01,645 [main] base.TestBase  - Clicking on an Element : bmlBtn_CSS
+INFO    2022-01-14 19:15:04,678 [main] base.TestBase  - Login successfully executed
+INFO    2022-01-14 19:21:46,351 [main] base.TestBase  - Config file loaded!
+INFO    2022-01-14 19:21:46,352 [main] base.TestBase  - Config file loaded!
+INFO    2022-01-14 19:21:46,627 [main] io.github.bonigarcia.wdm.WebDriverManager  - Using chromedriver 97.0.4692.71 (resolved driver for Chrome 97)
+INFO    2022-01-14 19:21:46,656 [main] io.github.bonigarcia.wdm.WebDriverManager  - Exporting webdriver.chrome.driver as C:\Users\denni\.cache\selenium\chromedriver\win32\97.0.4692.71\chromedriver.exe
+INFO    2022-01-14 19:21:48,629 [main] base.TestBase  - Chrome launched
+INFO    2022-01-14 19:21:49,954 [main] base.TestBase  - Navigated to https://www.way2automation.com/angularjs-protractor/banking/#/login
+INFO    2022-01-14 19:21:50,161 [main] base.TestBase  - Inside Login test
+INFO    2022-01-14 19:21:50,474 [main] base.TestBase  - Clicking on an Element : bmlBtn_CSS
+INFO    2022-01-14 19:21:53,500 [main] base.TestBase  - Login successfully executed
+INFO    2022-01-14 19:25:09,927 [main] base.TestBase  - Config file loaded!
+INFO    2022-01-14 19:25:09,928 [main] base.TestBase  - Config file loaded!
+INFO    2022-01-14 19:25:10,203 [main] io.github.bonigarcia.wdm.WebDriverManager  - Using chromedriver 97.0.4692.71 (resolved driver for Chrome 97)
+INFO    2022-01-14 19:25:10,230 [main] io.github.bonigarcia.wdm.WebDriverManager  - Exporting webdriver.chrome.driver as C:\Users\denni\.cache\selenium\chromedriver\win32\97.0.4692.71\chromedriver.exe
+INFO    2022-01-14 19:25:12,139 [main] base.TestBase  - Chrome launched
+INFO    2022-01-14 19:25:13,104 [main] base.TestBase  - Navigated to https://www.way2automation.com/angularjs-protractor/banking/#/login
+INFO    2022-01-14 19:25:13,312 [main] base.TestBase  - Inside Login test
+INFO    2022-01-14 19:25:13,561 [main] base.TestBase  - Clicking on an Element : bmlBtn_CSS
+INFO    2022-01-14 19:25:16,591 [main] base.TestBase  - Login successfully executed
+INFO    2022-01-14 19:25:27,932 [main] base.TestBase  - Clicking on an Element : addCustbtn_CSS
+INFO    2022-01-14 19:25:28,544 [main] base.TestBase  - Typing in an Element : firstName_CSS entered value as : Denise
+INFO    2022-01-14 19:25:28,615 [main] base.TestBase  - Typing in an Element : lastName_CSS entered value as : Bumbacea
+INFO    2022-01-14 19:25:28,681 [main] base.TestBase  - Typing in an Element : postCode_CSS entered value as : dsfsdf
+INFO    2022-01-14 19:25:28,731 [main] base.TestBase  - Clicking on an Element : addbtn_CSS
+INFO    2022-01-14 19:25:28,805 [main] base.TestBase  - Clicking on an Element : addCustbtn_CSS
+INFO    2022-01-14 19:25:28,881 [main] base.TestBase  - Typing in an Element : firstName_CSS entered value as : Iulia
+INFO    2022-01-14 19:25:28,932 [main] base.TestBase  - Typing in an Element : lastName_CSS entered value as : Popescu
+INFO    2022-01-14 19:25:28,978 [main] base.TestBase  - Typing in an Element : postCode_CSS entered value as : fdsf
+INFO    2022-01-14 19:25:29,011 [main] base.TestBase  - Clicking on an Element : addbtn_CSS
+INFO    2022-01-14 19:25:29,067 [main] base.TestBase  - Clicking on an Element : addCustbtn_CSS
+INFO    2022-01-14 19:25:29,115 [main] base.TestBase  - Typing in an Element : firstName_CSS entered value as : Andrei
+INFO    2022-01-14 19:25:29,160 [main] base.TestBase  - Typing in an Element : lastName_CSS entered value as : Ionescu
+INFO    2022-01-14 19:25:29,203 [main] base.TestBase  - Typing in an Element : postCode_CSS entered value as : fdasda
+INFO    2022-01-14 19:25:29,236 [main] base.TestBase  - Clicking on an Element : addbtn_CSS
+INFO    2022-01-14 19:25:50,865 [main] base.TestBase  - Execution completed
+INFO    2022-01-14 19:28:30,574 [main] base.TestBase  - Config file loaded!
+INFO    2022-01-14 19:28:30,575 [main] base.TestBase  - Config file loaded!
+INFO    2022-01-14 19:28:31,089 [main] io.github.bonigarcia.wdm.WebDriverManager  - Using chromedriver 97.0.4692.71 (resolved driver for Chrome 97)
+INFO    2022-01-14 19:28:31,106 [main] io.github.bonigarcia.wdm.WebDriverManager  - Exporting webdriver.chrome.driver as C:\Users\denni\.cache\selenium\chromedriver\win32\97.0.4692.71\chromedriver.exe
+INFO    2022-01-14 19:28:33,553 [main] base.TestBase  - Chrome launched
+INFO    2022-01-14 19:28:34,884 [main] base.TestBase  - Navigated to https://www.way2automation.com/angularjs-protractor/banking/#/login
+INFO    2022-01-14 19:28:35,093 [main] base.TestBase  - Inside Login test
+INFO    2022-01-14 19:28:35,154 [main] base.TestBase  - Clicking on an Element : bmlBtn_CSS
+INFO    2022-01-14 19:28:38,189 [main] base.TestBase  - Login successfully executed
+INFO    2022-01-14 19:28:49,460 [main] base.TestBase  - Clicking on an Element : addCustbtn_CSS
+INFO    2022-01-14 19:28:50,173 [main] base.TestBase  - Typing in an Element : firstName_CSS entered value as : Denise
+INFO    2022-01-14 19:28:50,251 [main] base.TestBase  - Typing in an Element : lastName_CSS entered value as : Bumbacea
+INFO    2022-01-14 19:28:50,315 [main] base.TestBase  - Typing in an Element : postCode_CSS entered value as : dsfsdf
+INFO    2022-01-14 19:28:50,369 [main] base.TestBase  - Clicking on an Element : addbtn_CSS
+INFO    2022-01-14 19:28:50,463 [main] base.TestBase  - Clicking on an Element : addCustbtn_CSS
+INFO    2022-01-14 19:28:50,506 [main] base.TestBase  - Typing in an Element : firstName_CSS entered value as : Iulia
+INFO    2022-01-14 19:28:50,568 [main] base.TestBase  - Typing in an Element : lastName_CSS entered value as : Popescu
+INFO    2022-01-14 19:28:50,618 [main] base.TestBase  - Typing in an Element : postCode_CSS entered value as : fdsf
+INFO    2022-01-14 19:28:50,656 [main] base.TestBase  - Clicking on an Element : addbtn_CSS
+INFO    2022-01-14 19:28:50,715 [main] base.TestBase  - Clicking on an Element : addCustbtn_CSS
+INFO    2022-01-14 19:28:50,767 [main] base.TestBase  - Typing in an Element : firstName_CSS entered value as : Andrei
+INFO    2022-01-14 19:28:50,815 [main] base.TestBase  - Typing in an Element : lastName_CSS entered value as : Ionescu
+INFO    2022-01-14 19:28:50,862 [main] base.TestBase  - Typing in an Element : postCode_CSS entered value as : fdasda
+INFO    2022-01-14 19:28:50,896 [main] base.TestBase  - Clicking on an Element : addbtn_CSS
+INFO    2022-01-14 19:29:13,060 [main] base.TestBase  - Execution completed
+INFO    2022-01-14 19:29:39,524 [main] base.TestBase  - Config file loaded!
+INFO    2022-01-14 19:29:39,525 [main] base.TestBase  - Config file loaded!
+INFO    2022-01-14 19:29:39,781 [main] io.github.bonigarcia.wdm.WebDriverManager  - Using chromedriver 97.0.4692.71 (resolved driver for Chrome 97)
+INFO    2022-01-14 19:29:39,799 [main] io.github.bonigarcia.wdm.WebDriverManager  - Exporting webdriver.chrome.driver as C:\Users\denni\.cache\selenium\chromedriver\win32\97.0.4692.71\chromedriver.exe
+INFO    2022-01-14 19:29:41,754 [main] base.TestBase  - Chrome launched
+INFO    2022-01-14 19:29:42,945 [main] base.TestBase  - Navigated to https://www.way2automation.com/angularjs-protractor/banking/#/login
+INFO    2022-01-14 19:29:43,150 [main] base.TestBase  - Inside Login test
+INFO    2022-01-14 19:29:43,294 [main] base.TestBase  - Clicking on an Element : bmlBtn_CSS
+INFO    2022-01-14 19:29:46,317 [main] base.TestBase  - Login successfully executed
+INFO    2022-01-14 19:29:57,488 [main] base.TestBase  - Clicking on an Element : addCustbtn_CSS
+INFO    2022-01-14 19:29:58,069 [main] base.TestBase  - Typing in an Element : firstName_CSS entered value as : Denise
+INFO    2022-01-14 19:29:58,143 [main] base.TestBase  - Typing in an Element : lastName_CSS entered value as : Bumbacea
+INFO    2022-01-14 19:29:58,206 [main] base.TestBase  - Typing in an Element : postCode_CSS entered value as : dsfsdf
+INFO    2022-01-14 19:29:58,255 [main] base.TestBase  - Clicking on an Element : addbtn_CSS
+INFO    2022-01-14 19:29:58,340 [main] base.TestBase  - Clicking on an Element : addCustbtn_CSS
+INFO    2022-01-14 19:29:58,389 [main] base.TestBase  - Typing in an Element : firstName_CSS entered value as : Iulia
+INFO    2022-01-14 19:29:58,433 [main] base.TestBase  - Typing in an Element : lastName_CSS entered value as : Popescu
+INFO    2022-01-14 19:29:58,488 [main] base.TestBase  - Typing in an Element : postCode_CSS entered value as : fdsf
+INFO    2022-01-14 19:29:58,520 [main] base.TestBase  - Clicking on an Element : addbtn_CSS
+INFO    2022-01-14 19:29:58,575 [main] base.TestBase  - Clicking on an Element : addCustbtn_CSS
+INFO    2022-01-14 19:29:58,626 [main] base.TestBase  - Typing in an Element : firstName_CSS entered value as : Andrei
+INFO    2022-01-14 19:29:58,678 [main] base.TestBase  - Typing in an Element : lastName_CSS entered value as : Ionescu
+INFO    2022-01-14 19:29:58,727 [main] base.TestBase  - Typing in an Element : postCode_CSS entered value as : fdasda
+INFO    2022-01-14 19:29:58,761 [main] base.TestBase  - Clicking on an Element : addbtn_CSS
+INFO    2022-01-14 19:30:20,388 [main] base.TestBase  - Execution completed
+INFO    2022-01-15 16:49:59,793 [main] base.TestBase  - Config file loaded!
+INFO    2022-01-15 16:49:59,810 [main] base.TestBase  - Config file loaded!
+INFO    2022-01-15 16:50:01,015 [main] io.github.bonigarcia.wdm.WebDriverManager  - Using chromedriver 97.0.4692.71 (resolved driver for Chrome 97)
+INFO    2022-01-15 16:50:01,045 [main] io.github.bonigarcia.wdm.WebDriverManager  - Exporting webdriver.chrome.driver as C:\Users\denni\.cache\selenium\chromedriver\win32\97.0.4692.71\chromedriver.exe
+INFO    2022-01-15 16:50:03,369 [main] base.TestBase  - Chrome launched
+INFO    2022-01-15 16:50:06,592 [main] base.TestBase  - Navigated to https://www.way2automation.com/angularjs-protractor/banking/#/login
+INFO    2022-01-15 16:50:06,881 [main] base.TestBase  - Inside Login test
+INFO    2022-01-15 16:50:07,353 [main] base.TestBase  - Clicking on an Element : bmlBtn_CSS
+INFO    2022-01-15 16:50:10,414 [main] base.TestBase  - Login successfully executed
+INFO    2022-01-15 16:50:22,244 [main] base.TestBase  - Clicking on an Element : addCustbtn_CSS
+INFO    2022-01-15 16:50:22,929 [main] base.TestBase  - Typing in an Element : firstName_CSS entered value as : Denise
+INFO    2022-01-15 16:50:23,072 [main] base.TestBase  - Typing in an Element : lastName_CSS entered value as : Bumbacea
+INFO    2022-01-15 16:50:23,145 [main] base.TestBase  - Typing in an Element : postCode_CSS entered value as : dsfsdf
+INFO    2022-01-15 16:50:23,200 [main] base.TestBase  - Clicking on an Element : addbtn_CSS
+INFO    2022-01-15 16:50:23,299 [main] base.TestBase  - Clicking on an Element : addCustbtn_CSS
+INFO    2022-01-15 16:50:23,347 [main] base.TestBase  - Typing in an Element : firstName_CSS entered value as : Iulia
+INFO    2022-01-15 16:50:23,398 [main] base.TestBase  - Typing in an Element : lastName_CSS entered value as : Popescu
+INFO    2022-01-15 16:50:23,445 [main] base.TestBase  - Typing in an Element : postCode_CSS entered value as : fdsf
+INFO    2022-01-15 16:50:23,479 [main] base.TestBase  - Clicking on an Element : addbtn_CSS
+INFO    2022-01-15 16:50:23,546 [main] base.TestBase  - Clicking on an Element : addCustbtn_CSS
+INFO    2022-01-15 16:50:23,614 [main] base.TestBase  - Typing in an Element : firstName_CSS entered value as : Andrei
+INFO    2022-01-15 16:50:23,673 [main] base.TestBase  - Typing in an Element : lastName_CSS entered value as : Ionescu
+INFO    2022-01-15 16:50:23,730 [main] base.TestBase  - Typing in an Element : postCode_CSS entered value as : fdasda
+INFO    2022-01-15 16:50:23,771 [main] base.TestBase  - Clicking on an Element : addbtn_CSS
+INFO    2022-01-15 16:50:45,371 [main] base.TestBase  - Execution completed
+INFO    2022-01-15 16:52:49,483 [main] base.TestBase  - Config file loaded!
+INFO    2022-01-15 16:52:49,484 [main] base.TestBase  - Config file loaded!
+INFO    2022-01-15 16:52:49,773 [main] io.github.bonigarcia.wdm.WebDriverManager  - Using chromedriver 97.0.4692.71 (resolved driver for Chrome 97)
+INFO    2022-01-15 16:52:49,800 [main] io.github.bonigarcia.wdm.WebDriverManager  - Exporting webdriver.chrome.driver as C:\Users\denni\.cache\selenium\chromedriver\win32\97.0.4692.71\chromedriver.exe
+INFO    2022-01-15 16:52:52,004 [main] base.TestBase  - Chrome launched
+INFO    2022-01-15 16:52:55,635 [main] base.TestBase  - Navigated to https://www.way2automation.com/angularjs-protractor/banking/#/login
+INFO    2022-01-15 16:52:55,823 [main] base.TestBase  - Inside Login test
+INFO    2022-01-15 16:52:56,497 [main] base.TestBase  - Clicking on an Element : bmlBtn_CSS
+INFO    2022-01-15 16:52:59,524 [main] base.TestBase  - Login successfully executed
+INFO    2022-01-15 16:53:11,924 [main] base.TestBase  - Clicking on an Element : addCustbtn_CSS
+INFO    2022-01-15 16:53:13,308 [main] base.TestBase  - Typing in an Element : firstName_CSS entered value as : Denise
+INFO    2022-01-15 16:53:13,398 [main] base.TestBase  - Typing in an Element : lastName_CSS entered value as : Bumbacea
+INFO    2022-01-15 16:53:13,470 [main] base.TestBase  - Typing in an Element : postCode_CSS entered value as : dsfsdf
+INFO    2022-01-15 16:53:13,524 [main] base.TestBase  - Clicking on an Element : addbtn_CSS
+INFO    2022-01-15 16:53:13,613 [main] base.TestBase  - Clicking on an Element : addCustbtn_CSS
+INFO    2022-01-15 16:53:13,672 [main] base.TestBase  - Typing in an Element : firstName_CSS entered value as : Iulia
+INFO    2022-01-15 16:53:13,723 [main] base.TestBase  - Typing in an Element : lastName_CSS entered value as : Popescu
+INFO    2022-01-15 16:53:13,769 [main] base.TestBase  - Typing in an Element : postCode_CSS entered value as : fdsf
+INFO    2022-01-15 16:53:13,804 [main] base.TestBase  - Clicking on an Element : addbtn_CSS
+INFO    2022-01-15 16:53:13,862 [main] base.TestBase  - Clicking on an Element : addCustbtn_CSS
+INFO    2022-01-15 16:53:13,907 [main] base.TestBase  - Typing in an Element : firstName_CSS entered value as : Andrei
+INFO    2022-01-15 16:53:13,955 [main] base.TestBase  - Typing in an Element : lastName_CSS entered value as : Ionescu
+INFO    2022-01-15 16:53:14,004 [main] base.TestBase  - Typing in an Element : postCode_CSS entered value as : fdasda
+INFO    2022-01-15 16:53:14,040 [main] base.TestBase  - Clicking on an Element : addbtn_CSS
+INFO    2022-01-15 16:53:37,212 [main] base.TestBase  - Execution completed
+INFO    2022-01-15 16:56:25,222 [main] base.TestBase  - Config file loaded!
+INFO    2022-01-15 16:56:25,224 [main] base.TestBase  - Config file loaded!
+INFO    2022-01-15 16:56:25,739 [main] io.github.bonigarcia.wdm.WebDriverManager  - Using chromedriver 97.0.4692.71 (resolved driver for Chrome 97)
+INFO    2022-01-15 16:56:25,756 [main] io.github.bonigarcia.wdm.WebDriverManager  - Exporting webdriver.chrome.driver as C:\Users\denni\.cache\selenium\chromedriver\win32\97.0.4692.71\chromedriver.exe
+INFO    2022-01-15 16:56:28,485 [main] base.TestBase  - Chrome launched
+INFO    2022-01-15 16:56:30,167 [main] base.TestBase  - Navigated to https://www.way2automation.com/angularjs-protractor/banking/#/login
+INFO    2022-01-15 16:56:30,358 [main] base.TestBase  - Inside Login test
+INFO    2022-01-15 16:56:31,231 [main] base.TestBase  - Clicking on an Element : bmlBtn_CSS
+INFO    2022-01-15 16:56:34,261 [main] base.TestBase  - Login successfully executed
+INFO    2022-01-15 16:56:46,517 [main] base.TestBase  - Clicking on an Element : addCustbtn_CSS
+INFO    2022-01-15 16:56:47,158 [main] base.TestBase  - Typing in an Element : firstName_CSS entered value as : Denise
+INFO    2022-01-15 16:56:47,234 [main] base.TestBase  - Typing in an Element : lastName_CSS entered value as : Bumbacea
+INFO    2022-01-15 16:56:47,299 [main] base.TestBase  - Typing in an Element : postCode_CSS entered value as : dsfsdf
+INFO    2022-01-15 16:56:47,358 [main] base.TestBase  - Clicking on an Element : addbtn_CSS
+INFO    2022-01-15 16:56:47,453 [main] base.TestBase  - Clicking on an Element : addCustbtn_CSS
+INFO    2022-01-15 16:56:47,502 [main] base.TestBase  - Typing in an Element : firstName_CSS entered value as : Iulia
+INFO    2022-01-15 16:56:47,551 [main] base.TestBase  - Typing in an Element : lastName_CSS entered value as : Popescu
+INFO    2022-01-15 16:56:47,596 [main] base.TestBase  - Typing in an Element : postCode_CSS entered value as : fdsf
+INFO    2022-01-15 16:56:47,629 [main] base.TestBase  - Clicking on an Element : addbtn_CSS
+INFO    2022-01-15 16:56:47,680 [main] base.TestBase  - Clicking on an Element : addCustbtn_CSS
+INFO    2022-01-15 16:56:47,725 [main] base.TestBase  - Typing in an Element : firstName_CSS entered value as : Andrei
+INFO    2022-01-15 16:56:47,769 [main] base.TestBase  - Typing in an Element : lastName_CSS entered value as : Ionescu
+INFO    2022-01-15 16:56:47,816 [main] base.TestBase  - Typing in an Element : postCode_CSS entered value as : fdasda
+INFO    2022-01-15 16:56:47,849 [main] base.TestBase  - Clicking on an Element : addbtn_CSS
+INFO    2022-01-15 16:57:11,693 [main] base.TestBase  - Execution completed
+INFO    2022-01-15 17:34:12,508 [main] base.TestBase  - Config file loaded!
+INFO    2022-01-15 17:34:12,509 [main] base.TestBase  - Config file loaded!
+INFO    2022-01-15 17:34:12,805 [main] io.github.bonigarcia.wdm.WebDriverManager  - Using chromedriver 97.0.4692.71 (resolved driver for Chrome 97)
+INFO    2022-01-15 17:34:12,823 [main] io.github.bonigarcia.wdm.WebDriverManager  - Exporting webdriver.chrome.driver as C:\Users\denni\.cache\selenium\chromedriver\win32\97.0.4692.71\chromedriver.exe
+INFO    2022-01-15 17:34:14,800 [main] base.TestBase  - Chrome launched
+INFO    2022-01-15 17:34:16,691 [main] base.TestBase  - Navigated to https://www.way2automation.com/angularjs-protractor/banking/#/login
+INFO    2022-01-15 17:34:16,881 [main] base.TestBase  - Inside Login test
+INFO    2022-01-15 17:34:17,932 [main] base.TestBase  - Clicking on an Element : bmlBtn_CSS
+INFO    2022-01-15 17:34:20,964 [main] base.TestBase  - Login successfully executed
+INFO    2022-01-15 17:34:26,568 [main] base.TestBase  - Clicking on an Element : addCustbtn_CSS
+INFO    2022-01-15 17:34:27,026 [main] base.TestBase  - Typing in an Element : firstName_CSS entered value as : Denise
+INFO    2022-01-15 17:34:27,107 [main] base.TestBase  - Typing in an Element : lastName_CSS entered value as : Bumbacea
+INFO    2022-01-15 17:34:27,175 [main] base.TestBase  - Typing in an Element : postCode_CSS entered value as : dsfsdf
+INFO    2022-01-15 17:34:27,227 [main] base.TestBase  - Clicking on an Element : addbtn_CSS
+INFO    2022-01-15 17:34:27,320 [main] base.TestBase  - Clicking on an Element : addCustbtn_CSS
+INFO    2022-01-15 17:34:27,370 [main] base.TestBase  - Typing in an Element : firstName_CSS entered value as : Iulia
+INFO    2022-01-15 17:34:27,426 [main] base.TestBase  - Typing in an Element : lastName_CSS entered value as : Popescu
+INFO    2022-01-15 17:34:27,479 [main] base.TestBase  - Typing in an Element : postCode_CSS entered value as : fdsf
+INFO    2022-01-15 17:34:27,515 [main] base.TestBase  - Clicking on an Element : addbtn_CSS
+INFO    2022-01-15 17:34:27,568 [main] base.TestBase  - Clicking on an Element : addCustbtn_CSS
+INFO    2022-01-15 17:34:27,619 [main] base.TestBase  - Typing in an Element : firstName_CSS entered value as : Andrei
+INFO    2022-01-15 17:34:27,668 [main] base.TestBase  - Typing in an Element : lastName_CSS entered value as : Ionescu
+INFO    2022-01-15 17:34:27,718 [main] base.TestBase  - Typing in an Element : postCode_CSS entered value as : fdasda
+INFO    2022-01-15 17:34:27,751 [main] base.TestBase  - Clicking on an Element : addbtn_CSS
+INFO    2022-01-15 17:34:38,163 [main] base.TestBase  - Execution completed
+INFO    2022-01-15 17:36:48,502 [main] base.TestBase  - Config file loaded!
+INFO    2022-01-15 17:36:48,503 [main] base.TestBase  - Config file loaded!
+INFO    2022-01-15 17:36:48,782 [main] io.github.bonigarcia.wdm.WebDriverManager  - Using chromedriver 97.0.4692.71 (resolved driver for Chrome 97)
+INFO    2022-01-15 17:36:48,799 [main] io.github.bonigarcia.wdm.WebDriverManager  - Exporting webdriver.chrome.driver as C:\Users\denni\.cache\selenium\chromedriver\win32\97.0.4692.71\chromedriver.exe
+INFO    2022-01-15 17:36:50,715 [main] base.TestBase  - Chrome launched
+INFO    2022-01-15 17:36:52,990 [main] base.TestBase  - Navigated to https://www.way2automation.com/angularjs-protractor/banking/#/login
+INFO    2022-01-15 17:36:53,191 [main] base.TestBase  - Inside Login test
+INFO    2022-01-15 17:36:53,768 [main] base.TestBase  - Clicking on an Element : bmlBtn_CSS
+INFO    2022-01-15 17:36:56,787 [main] base.TestBase  - Login successfully executed
+INFO    2022-01-15 17:37:08,661 [main] base.TestBase  - Clicking on an Element : addCustbtn_CSS
+INFO    2022-01-15 17:37:09,121 [main] base.TestBase  - Typing in an Element : firstName_CSS entered value as : Denise
+INFO    2022-01-15 17:37:09,196 [main] base.TestBase  - Typing in an Element : lastName_CSS entered value as : Bumbacea
+INFO    2022-01-15 17:37:09,260 [main] base.TestBase  - Typing in an Element : postCode_CSS entered value as : dsfsdf
+INFO    2022-01-15 17:37:09,311 [main] base.TestBase  - Clicking on an Element : addbtn_CSS
+INFO    2022-01-15 17:37:09,394 [main] base.TestBase  - Clicking on an Element : addCustbtn_CSS
+INFO    2022-01-15 17:37:09,445 [main] base.TestBase  - Typing in an Element : firstName_CSS entered value as : Iulia
+INFO    2022-01-15 17:37:09,501 [main] base.TestBase  - Typing in an Element : lastName_CSS entered value as : Popescu
+INFO    2022-01-15 17:37:09,549 [main] base.TestBase  - Typing in an Element : postCode_CSS entered value as : fdsf
+INFO    2022-01-15 17:37:09,583 [main] base.TestBase  - Clicking on an Element : addbtn_CSS
+INFO    2022-01-15 17:37:09,645 [main] base.TestBase  - Clicking on an Element : addCustbtn_CSS
+INFO    2022-01-15 17:37:09,697 [main] base.TestBase  - Typing in an Element : firstName_CSS entered value as : Andrei
+INFO    2022-01-15 17:37:09,748 [main] base.TestBase  - Typing in an Element : lastName_CSS entered value as : Ionescu
+INFO    2022-01-15 17:37:09,797 [main] base.TestBase  - Typing in an Element : postCode_CSS entered value as : fdasda
+INFO    2022-01-15 17:37:09,835 [main] base.TestBase  - Clicking on an Element : addbtn_CSS
+INFO    2022-01-15 17:37:32,684 [main] base.TestBase  - Execution completed
